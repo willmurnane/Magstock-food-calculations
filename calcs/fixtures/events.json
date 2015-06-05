@@ -1,0 +1,9 @@
+[
+{
+  "fields": {
+    "Name": "Magstock 2015"
+  },
+  "pk": 1,
+  "model": "calcs.event"
+}
+]

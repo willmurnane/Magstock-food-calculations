@@ -1,0 +1,20 @@
+[
+{
+    "pk": 1,
+    "fields": {
+        "is_active": true,
+        "email": "will.murnane@gmail.com",
+        "date_joined": "2015-06-03T22:43:20.231Z",
+        "password": "pbkdf2_sha256$20000$dV02vvmIldzP$86EA4n4+mJupGjV55RQOZk/ZG+iGmA/Ec01OFXn9gvI=",
+        "is_staff": true,
+        "last_login": null,
+        "user_permissions": [],
+        "is_superuser": true,
+        "last_name": "",
+        "groups": [],
+        "first_name": "",
+        "username": "will"
+    },
+    "model": "auth.user"
+}
+]

@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block title %}{{mealInEvent.FkEvent.Name}} {{mealInEvent.FkMeal.Name}} costs{% endblock %}
+{% block content %}
+<p>{{mealInEvent.FkMeal.Name}} at {{mealInEvent.FkEvent.Name}} is planned for {{ mealInEvent.AttendeeCount }} attendee{{ mealInEvent.AttendeeCount|pluralize }}.</p>
+<p>This meal is composed of the following components, when scaled appropriately:</p>
+<table>
+<thead><tr>
+  <td>Item</td>
+  <td>Per person</td>
+  <td>For group</td>
+  <td>Total required</td>
+  <td>Purchaseable quantity</td>
+  <td>Number to purchase <strong>for this meal</strong></td>
+  <td>Cost</td>
+</tr></thead>
+{% for comp in scaledComponents %}
+<tr>
+  <td>{{ comp.Name }}</td>
+  <td>{{ comp.AmountPerPerson }} {{ comp.Units }}</td>
+  <td>{{ comp.AmountForGroup }} {{ comp.Units }}</td>
+  <td>{{ comp.TotalAmount }}</td>
+  <td>{{ comp.PurchaseIncrement }}</td>
+  <td>{{ comp.NumberToPurchase }}</td>
+  <td>${{ comp.ItemCost }}</td>
+</tr>
+{% endfor %}
+</table>
+<p>Total cost: <strong>${{ TotalCost }}</strong>, if only ingredients for this meal are purchased.</p>
+{% endblock %}

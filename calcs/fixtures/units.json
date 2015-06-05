@@ -1,5 +1,6 @@
 [
  {"pk": 1, "model": "calcs.unit", "fields": {"Name": "oz"}},
  {"pk": 2, "model": "calcs.unit", "fields": {"Name": "g"}},
- {"pk": 3, "model": "calcs.unit", "fields": {"Name": "ea"}}
+ {"pk": 3, "model": "calcs.unit", "fields": {"Name": "ea"}},
+ {"pk": 4, "model": "calcs.unit", "fields": {"Name": "slices"}}
 ]

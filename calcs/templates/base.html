@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>{% block title %}Food calculator{% endblock %}</title>
+</head>
+
+<body>
+    <div id="content">
+        {% block content %}{% endblock %}
+    </div>
+{% if debug %}
+<table>
+{% for row in debug %}
+<tr><td>{{ row.time }}</td><td>{{ row.sql }}</td></tr>
+{% endfor %}
+</table>
+{% else %}
+Debug is off
+{% endif %}
+</body>
+</html>

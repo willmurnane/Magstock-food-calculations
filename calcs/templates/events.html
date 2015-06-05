@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+{% block title %}FoodCalc{% endblock %}
+{% block content %}
+<p>Welcome to the Food Calculator. Pick an event for more details on it, or <a href="{# FIXME #}not_implemented">make a new event</a>.</p>
+{% for event in events %}
+<a href="{% url 'show-event' event.id %}">{{ event.Name }}</a>
+{% endfor %}
+{% endblock %}
