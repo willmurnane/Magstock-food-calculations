@@ -1,0 +1,42 @@
+[
+{
+  "fields": {
+    "Ingredient": 49,
+    "AmountPerPerson": 2.0,
+    "AmountForGroup": 0.0,
+    "Meal": 2
+  },
+  "pk": 1,
+  "model": "calcs.mealcomponent"
+},
+{
+  "fields": {
+    "Ingredient": 129,
+    "AmountPerPerson": 2.5,
+    "AmountForGroup": 0.0,
+    "Meal": 2
+  },
+  "pk": 2,
+  "model": "calcs.mealcomponent"
+},
+{
+  "fields": {
+    "Ingredient": 49,
+    "AmountPerPerson": 0.2,
+    "AmountForGroup": 0.0,
+    "Meal": 3
+  },
+  "pk": 3,
+  "model": "calcs.mealcomponent"
+},
+{
+  "fields": {
+    "Ingredient": 49,
+    "AmountPerPerson": 1.0,
+    "AmountForGroup": 0.0,
+    "Meal": 18
+  },
+  "pk": 4,
+  "model": "calcs.mealcomponent"
+}
+]

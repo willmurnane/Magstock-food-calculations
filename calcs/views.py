@@ -1,5 +1,5 @@
 import math
-from django.db.models import F, Sum
+from django.db.models import F, Func, Sum, ExpressionWrapper, FloatField
 from django.shortcuts import render
 from calcs import models
 # Create your views here.
@@ -8,14 +8,24 @@ def show_events(request):
 	return render(request, 'events.html', {"events": models.Event.objects.all()})
 
 def event(request, eventId):
-	from django.db import connection
-#	ingredients = models.MealComponent.objects.filter(Meal__event__id = eventId).annotate(total_ing=Sum(F('AmountPerPerson')))
-	ingredients = models.PurchaseableItem.objects.filter(mealcomponent__Meal__event__id=eventId)
+	event = models.Event.objects.get(pk=eventId)
+	meals = list(models.MealsInEvent.objects.filter(FkEvent=eventId))
+	ingredient_costs = models.PurchaseableItem.objects.filter(mealcomponent__Meal__event__id=eventId)\
+		.distinct()\
+		.annotate(quantity_needed = Sum(F('mealcomponent__AmountPerPerson') * F('mealcomponent__Meal__mealsinevent__AttendeeCount'))) \
+		.annotate(num_packages = Func(0.5 + F('quantity_needed') / F('QuantityProvided'), function='ROUND')) \
+		.annotate(total_cost = ExpressionWrapper(F('num_packages') * F('UnitPrice'), output_field=FloatField())) \
+		.values('quantity_needed', 'num_packages', 'total_cost', 'ItemName')
+	
+	total_cost = 0
+	for i in ingredient_costs:
+		total_cost += i['total_cost']
 	return render(request, 'event.html',
 	{
-		"event": models.Event.objects.get(pk=eventId),
-		"meals": models.MealsInEvent.objects.filter(FkEvent=eventId),
-		"ingredients": ingredients,
+		"event": event,
+		"meals": meals,
+		"total_cost": total_cost,
+		"ingredient_costs": ingredient_costs,
 	})
 
 def mealcost(request, mealInEventId):

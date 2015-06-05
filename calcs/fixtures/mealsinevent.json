@@ -1,0 +1,29 @@
+[
+{
+  "fields": {
+    "FkEvent": 1,
+    "FkMeal": 2,
+    "AttendeeCount": 60
+  },
+  "model": "calcs.mealsinevent",
+  "pk": 1
+},
+{
+  "fields": {
+    "FkEvent": 1,
+    "FkMeal": 3,
+    "AttendeeCount": 100
+  },
+  "model": "calcs.mealsinevent",
+  "pk": 2
+},
+{
+  "fields": {
+    "FkEvent": 1,
+    "FkMeal": 18,
+    "AttendeeCount": 90
+  },
+  "model": "calcs.mealsinevent",
+  "pk": 3
+}
+]
