@@ -4,7 +4,7 @@
 {{ event }} has {{ meals|length }} meal{{ meals|pluralize }} planned.
 <table><th><tr><td>Meal name</td><td>Attendees</td></tr></th>
 {% for meal in meals %}
-<tr><td>{{ meal.FkMeal.Name }}</td><td>{{ meal.AttendeeCount }}</td><td><a href="{% url 'cost-breakdown' meal.id %}">Cost breakdown</a></td></tr>
+<tr><td>{{ meal.FkMeal__Name }} ({{ meal.num_components }} ingredients)</td><td>{{ meal.AttendeeCount }}</td><td><a href="{% url 'cost-breakdown' meal.id %}">Cost breakdown</a></td></tr>
 {% endfor %}
 </table>
 <table>

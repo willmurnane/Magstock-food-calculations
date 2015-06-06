@@ -1,5 +1,5 @@
 import math
-from django.db.models import F, Func, Sum, Case, When, ExpressionWrapper, FloatField
+from django.db.models import F, Func, Sum, Count, Case, When, ExpressionWrapper, FloatField
 from django.shortcuts import render
 from calcs import models
 # Create your views here.
@@ -9,7 +9,11 @@ def show_events(request):
 
 def event(request, eventId):
 	event = models.Event.objects.get(pk=eventId)
-	meals = list(models.MealsInEvent.objects.filter(FkEvent=eventId))
+	meals = list(models.MealsInEvent.objects \
+			  .filter(FkEvent=eventId) \
+			  .annotate(num_components=Count('FkMeal__mealcomponent__id')) \
+			  .values('id', 'FkMeal__Name', 'num_components', 'AttendeeCount') \
+		  )
 	ingredient_costs = models.PurchaseableItem.objects.filter(mealcomponent__Meal__event__id=eventId)\
 		.distinct()\
 		.annotate(quantity_needed = Sum(F('mealcomponent__AmountPerPerson') * F('mealcomponent__Meal__mealsinevent__AttendeeCount'), output_field=FloatField())) \
