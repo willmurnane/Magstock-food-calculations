@@ -15,7 +15,7 @@ class PurchaseableItem(models.Model):
 	AlreadyHave = models.IntegerField(default=0, blank=True)
 	PriceUpdatedDate = models.DateField(default=datetime.date.today)
 	def __str__(self):
-		return self.ItemName
+		return "%s, %s" % (self.ItemName, self.QuantityUnits.Name)
 
 class Meal(models.Model):
 	Name = models.CharField(max_length=100)
