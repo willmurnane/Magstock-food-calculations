@@ -1,5 +1,5 @@
 import math
-from django.db.models import F, Func, Sum, ExpressionWrapper, FloatField
+from django.db.models import F, Func, Sum, Case, When, ExpressionWrapper, FloatField
 from django.shortcuts import render
 from calcs import models
 # Create your views here.
@@ -13,9 +13,10 @@ def event(request, eventId):
 	ingredient_costs = models.PurchaseableItem.objects.filter(mealcomponent__Meal__event__id=eventId)\
 		.distinct()\
 		.annotate(quantity_needed = Sum(F('mealcomponent__AmountPerPerson') * F('mealcomponent__Meal__mealsinevent__AttendeeCount'), output_field=FloatField())) \
-		.annotate(num_packages = Func(0.49  - F('AlreadyHave') + F('quantity_needed') / F('QuantityProvided'), output_field=FloatField(), function='ROUND')) \
+		.annotate(num_packages = Case(When(AlreadyHave__gt= F('quantity_needed') / F('QuantityProvided'), then=0),
+			default=Func(0.49 - F('AlreadyHave') + (F('quantity_needed') / F('QuantityProvided')), output_field=FloatField(), function='ROUND'))) \
 		.annotate(total_cost = ExpressionWrapper(F('num_packages') * F('UnitPrice'), output_field=FloatField())) \
-			.values('quantity_needed', 'num_packages', 'total_cost', 'ItemName', 'AlreadyHave', 'QuantityUnits__Name')
+		.values('quantity_needed', 'num_packages', 'total_cost', 'ItemName', 'AlreadyHave', 'QuantityProvided', 'QuantityUnits__Name')
 	
 	total_cost = 0
 	for i in ingredient_costs:

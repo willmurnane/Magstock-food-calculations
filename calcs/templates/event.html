@@ -19,8 +19,8 @@
 <tr>
   <td>{{ ic.ItemName }}</td>
   <td>{{ ic.quantity_needed|floatformat:-2 }} {{ ic.QuantityUnits__Name }}</td>
-  <td>{% if ic.AlreadyHave != 0 %}{{ ic.AlreadyHave }}{% endif %}</td>
-  <td>{{ ic.num_packages|floatformat:"0" }}</td>
+  <td>{% if ic.AlreadyHave != 0 %}{{ ic.AlreadyHave }} @ {{ ic.QuantityProvided}} {{ ic.QuantityUnits__Name }} ea{% endif %}</td>
+  <td>{{ ic.num_packages|floatformat:"0" }} {{ ic.QuantityProvided}} {{ ic.QuantityUnits__Name }} package{{ ic.num_packages|pluralize }}</td>
   <td>${{ ic.total_cost|floatformat:2 }}</td>
 </tr>
 {% endfor %}
