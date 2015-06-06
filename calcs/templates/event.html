@@ -8,15 +8,22 @@
 {% endfor %}
 </table>
 <table>
-<thead><tr><td>Item</td><td>Total amount needed</td><td>Packages to buy</td><td>Cost</td></tr></thead>
+<thead><tr>
+  <td>Item</td>
+  <td>Total amount needed</td>
+  <td>Already have</td>
+  <td>Packages to buy</td>
+  <td>Cost</td>
+</tr></thead>
 {% for ic in ingredient_costs %}
 <tr>
   <td>{{ ic.ItemName }}</td>
-  <td>{{ ic.quantity_needed }}</td>
-  <td>{{ ic.num_packages }}</td>
-  <td>${{ ic.total_cost }}</td>
+  <td>{{ ic.quantity_needed|floatformat:-2 }} {{ ic.QuantityUnits__Name }}</td>
+  <td>{% if ic.AlreadyHave != 0 %}{{ ic.AlreadyHave }}{% endif %}</td>
+  <td>{{ ic.num_packages|floatformat:"0" }}</td>
+  <td>${{ ic.total_cost|floatformat:2 }}</td>
 </tr>
 {% endfor %}
-<tr><td colspan=3></td><td><strong>${{ total_cost }}</strong></td></tr>
+<tr><td colspan=3></td><td><strong>${{ total_cost|floatformat:2 }}</strong></td></tr>
 </table>
 {% endblock %}

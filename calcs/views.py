@@ -12,14 +12,15 @@ def event(request, eventId):
 	meals = list(models.MealsInEvent.objects.filter(FkEvent=eventId))
 	ingredient_costs = models.PurchaseableItem.objects.filter(mealcomponent__Meal__event__id=eventId)\
 		.distinct()\
-		.annotate(quantity_needed = Sum(F('mealcomponent__AmountPerPerson') * F('mealcomponent__Meal__mealsinevent__AttendeeCount'))) \
-		.annotate(num_packages = Func(0.5 + F('quantity_needed') / F('QuantityProvided'), function='ROUND')) \
+		.annotate(quantity_needed = Sum(F('mealcomponent__AmountPerPerson') * F('mealcomponent__Meal__mealsinevent__AttendeeCount'), output_field=FloatField())) \
+		.annotate(num_packages = Func(0.49  - F('AlreadyHave') + F('quantity_needed') / F('QuantityProvided'), output_field=FloatField(), function='ROUND')) \
 		.annotate(total_cost = ExpressionWrapper(F('num_packages') * F('UnitPrice'), output_field=FloatField())) \
-		.values('quantity_needed', 'num_packages', 'total_cost', 'ItemName')
+			.values('quantity_needed', 'num_packages', 'total_cost', 'ItemName', 'AlreadyHave', 'QuantityUnits__Name')
 	
 	total_cost = 0
 	for i in ingredient_costs:
-		total_cost += i['total_cost']
+		if i['total_cost'] > 0:
+			total_cost += i['total_cost']
 	return render(request, 'event.html',
 	{
 		"event": event,

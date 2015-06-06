@@ -16,12 +16,12 @@
 {% for comp in scaledComponents %}
 <tr>
   <td>{{ comp.Name }}</td>
-  <td>{{ comp.AmountPerPerson }} {{ comp.Units }}</td>
-  <td>{{ comp.AmountForGroup }} {{ comp.Units }}</td>
-  <td>{{ comp.TotalAmount }}</td>
-  <td>{{ comp.PurchaseIncrement }}</td>
+  <td>{{ comp.AmountPerPerson|floatformat }} {{ comp.Units }}</td>
+  <td>{{ comp.AmountForGroup|floatformat }} {{ comp.Units }}</td>
+  <td>{{ comp.TotalAmount|floatformat }}</td>
+  <td>{{ comp.PurchaseIncrement|floatformat }}</td>
   <td>{{ comp.NumberToPurchase }}</td>
-  <td>${{ comp.ItemCost }}</td>
+  <td>${{ comp.ItemCost|floatformat:2 }}</td>
 </tr>
 {% endfor %}
 </table>
