@@ -16,7 +16,7 @@ def event(request, eventId):
 		.annotate(num_packages = Case(When(AlreadyHave__gt= F('quantity_needed') / F('QuantityProvided'), then=0),
 			default=Func(0.49 - F('AlreadyHave') + (F('quantity_needed') / F('QuantityProvided')), output_field=FloatField(), function='ROUND'))) \
 		.annotate(total_cost = ExpressionWrapper(F('num_packages') * F('UnitPrice'), output_field=FloatField())) \
-		.values('quantity_needed', 'num_packages', 'total_cost', 'ItemName', 'AlreadyHave', 'QuantityProvided', 'QuantityUnits__Name')
+		.values('quantity_needed', 'num_packages', 'total_cost', 'ItemName', 'AlreadyHave', 'QuantityProvided', 'PurchaseLink', 'QuantityUnits__Name')
 	
 	total_cost = 0
 	for i in ingredient_costs:

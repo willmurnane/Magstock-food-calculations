@@ -19,11 +19,23 @@
 <tr>
   <td>{{ ic.ItemName }}</td>
   <td>{{ ic.quantity_needed|floatformat:-2 }} {{ ic.QuantityUnits__Name }}</td>
-  <td>{% if ic.AlreadyHave != 0 %}{{ ic.AlreadyHave }} @ {{ ic.QuantityProvided}} {{ ic.QuantityUnits__Name }} ea{% endif %}</td>
+  <td>{% if ic.AlreadyHave != 0 %}{{ ic.AlreadyHave }}ea @ {{ ic.QuantityProvided}} {{ ic.QuantityUnits__Name }}{% endif %}</td>
   <td>{{ ic.num_packages|floatformat:"0" }} {{ ic.QuantityProvided}} {{ ic.QuantityUnits__Name }} package{{ ic.num_packages|pluralize }}</td>
   <td>${{ ic.total_cost|floatformat:2 }}</td>
 </tr>
 {% endfor %}
 <tr><td colspan=3></td><td><strong>${{ total_cost|floatformat:2 }}</strong></td></tr>
 </table>
+
+<form method="GET" action="http://www.amazon.com/gp/aws/cart/add.html">
+{% for item in ingredient_costs %}
+{% if item.num_packages > 0 and item.PurchaseLink %}
+<!-- Purchase item {{ item.ItemName }} -->
+<input type="hidden" name="ASIN.{{ forloop.counter }}" value="{{ item.PurchaseLink }}"/>
+<input type="hidden" name="Quantity.{{ forloop.counter }}" value="{{ item.num_packages|floatformat:"0" }}"/>
+{% endif %}
+{% endfor %}
+<input type="image" name="add" value="Buy from Amazon.com" border="0" alt="Buy from Amazon.com" src="http://images.amazon.com/images/G/01/associates/add-to-cart.gif">
+</form>
+
 {% endblock %}
