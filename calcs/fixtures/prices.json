@@ -16,7 +16,7 @@
  {"pk": 16, "fields": {"UnitPrice": "4.69", "PurchaseLink": null, "AlreadyHave": 0, "QuantityUnits": 1, "ItemName": "black beans", "QuantityProvided": 93.0}, "model": "calcs.purchaseableitem"}, 
  {"pk": 17, "fields": {"UnitPrice": "4.89", "PurchaseLink": null, "AlreadyHave": 0, "QuantityUnits": 1, "ItemName": "black pepper", "QuantityProvided": 10.3}, "model": "calcs.purchaseableitem"}, 
  {"pk": 18, "fields": {"UnitPrice": "5.99", "PurchaseLink": null, "AlreadyHave": 0, "QuantityUnits": 1, "ItemName": "blueberries", "QuantityProvided": 18.0}, "model": "calcs.purchaseableitem"}, 
- {"pk": 19, "fields": {"UnitPrice": "7.69", "PurchaseLink": null, "AlreadyHave": 0, "QuantityUnits": 3, "ItemName": "bowls", "QuantityProvided": 9.99}, "model": "calcs.purchaseableitem"}, 
+ {"pk": 19, "fields": {"UnitPrice": "7.69", "PurchaseLink": null, "AlreadyHave": 0, "QuantityUnits": 3, "ItemName": "individual bowls", "QuantityProvided": 160}, "model": "calcs.purchaseableitem"}, 
  {"pk": 20, "fields": {"UnitPrice": "9.99", "PurchaseLink": null, "AlreadyHave": 0, "QuantityUnits": 3, "ItemName": "bratwurst", "QuantityProvided": 14.0}, "model": "calcs.purchaseableitem"}, 
  {"pk": 21, "fields": {"UnitPrice": "2.99", "PurchaseLink": null, "AlreadyHave": 0, "QuantityUnits": 4, "ItemName": "bread", "QuantityProvided": 36.0}, "model": "calcs.purchaseableitem"}, 
  {"pk": 22, "fields": {"UnitPrice": "5.39", "PurchaseLink": null, "AlreadyHave": 0, "QuantityUnits": 1, "ItemName": "breadcrumbs", "QuantityProvided": 92.0}, "model": "calcs.purchaseableitem"}, 
@@ -167,4 +167,6 @@
  {"pk": 167, "fields": {"UnitPrice": "6.89", "PurchaseLink": null, "AlreadyHave": 0, "QuantityUnits": 1, "ItemName": "worstershire sauce", "QuantityProvided": 40.0}, "model": "calcs.purchaseableitem"}, 
  {"pk": 168, "fields": {"UnitPrice": "8.59", "PurchaseLink": null, "AlreadyHave": 0, "QuantityUnits": 3, "ItemName": "yogurt", "QuantityProvided": 18.0}, "model": "calcs.purchaseableitem"}, 
  {"pk": 169, "fields": {"UnitPrice": "14.79", "PurchaseLink": null, "AlreadyHave": 0, "QuantityUnits": 3, "ItemName": "veggie burgers", "QuantityProvided": 12.0}, "model": "calcs.purchaseableitem"}, 
- {"pk": 170, "fields": {"UnitPrice": "1.00", "PurchaseLink": null, "AlreadyHave": 0, "QuantityUnits": 2, "ItemName": "zucchini", "QuantityProvided": 450.0}, "model": "calcs.purchaseableitem"}]
+ {"pk": 170, "fields": {"UnitPrice": "1.00", "PurchaseLink": null, "AlreadyHave": 0, "QuantityUnits": 2, "ItemName": "zucchini", "QuantityProvided": 450.0}, "model": "calcs.purchaseableitem"},
+ {"pk": 171, "fields": {"UnitPrice": "7.16", "PurchaseLink": "http://www.amazon.com/Cook-5-Quart-Stainless-Steel-Mixing/dp/B001U0O36G", "AlreadyHave": 8, "QuantityUnits": 3, "ItemName": "mixing bowl", "QuantityProvided": 1}, "model": "calcs.purchaseableitem"}
+]
