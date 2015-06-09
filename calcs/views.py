@@ -2,10 +2,14 @@ import math
 from django.db.models import F, Func, Sum, Count, Case, When, ExpressionWrapper, FloatField
 from django.shortcuts import render
 from calcs import models
+from calcs import forms
 # Create your views here.
 
 def show_events(request):
 	return render(request, 'events.html', {"events": models.Event.objects.all()})
+
+def create_event(request):
+	return render(request, 'create_event.html', {"form": forms.EventForm()})
 
 def event(request, eventId):
 	event = models.Event.objects.get(pk=eventId)
