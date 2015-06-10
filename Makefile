@@ -3,7 +3,8 @@ help:
 	@echo "run - Run container for in production mode"
 
 build:
-	docker build -t foodcalc .
+	docker build -t gunicorn .
 
 run: build
-	docker run -p=80:80 -t -i -v /opt/log:/sharedlogs foodcalc
+	docker-compose up
+	#docker run -p=80:80 -t -i -v /opt/log:/sharedlogs foodcalc
