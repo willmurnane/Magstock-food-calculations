@@ -1,2615 +1,2615 @@
 [
 {
   "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
     "QuantityUnits": 1,
+    "ItemName": "\"table\" syrup",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 128.0,
     "UnitPrice": "5.19",
-    "QuantityProvided": 128.0,
-    "ItemName": "\"table\" syrup"
+    "AlreadyHave": 0
   },
-  "pk": 2,
-  "model": "calcs.purchaseableitem"
+  "model": "calcs.purchaseableitem",
+  "pk": 2
 },
 {
   "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "aluminum foil",
     "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 1,
     "PurchaseLink": null,
-    "QuantityUnits": 3,
-    "UnitPrice": "21.99",
     "QuantityProvided": 1.0,
-    "ItemName": "aluminum foil"
+    "UnitPrice": "21.99",
+    "AlreadyHave": 1
   },
-  "pk": 3,
-  "model": "calcs.purchaseableitem"
+  "model": "calcs.purchaseableitem",
+  "pk": 3
 },
 {
   "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 1,
-    "PurchaseLink": "",
     "QuantityUnits": 3,
+    "ItemName": "aluminum Trays",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 30.0,
     "UnitPrice": "6.49",
-    "QuantityProvided": 30.0,
-    "ItemName": "aluminum Trays"
+    "AlreadyHave": 1
   },
-  "pk": 4,
-  "model": "calcs.purchaseableitem"
+  "model": "calcs.purchaseableitem",
+  "pk": 4
 },
 {
   "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 1,
-    "PurchaseLink": "",
     "QuantityUnits": 3,
-    "UnitPrice": "8.99",
+    "ItemName": "aluminum trays, large",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
     "QuantityProvided": 15.0,
-    "ItemName": "aluminum trays, large"
+    "UnitPrice": "8.99",
+    "AlreadyHave": 1
   },
-  "pk": 5,
-  "model": "calcs.purchaseableitem"
+  "model": "calcs.purchaseableitem",
+  "pk": 5
 },
 {
   "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
     "QuantityUnits": 4,
-    "UnitPrice": "10.69",
+    "ItemName": "american cheese",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
     "QuantityProvided": 120.0,
-    "ItemName": "american cheese"
-  },
-  "pk": 6,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "8.49",
-    "QuantityProvided": 256.0,
-    "ItemName": "apple juice"
-  },
-  "pk": 7,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 3,
-    "UnitPrice": "7.99",
-    "QuantityProvided": 10.0,
-    "ItemName": "apples"
-  },
-  "pk": 8,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "8.99",
-    "QuantityProvided": 64.0,
-    "ItemName": "bacon"
-  },
-  "pk": 9,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 3,
-    "UnitPrice": "5.49",
-    "QuantityProvided": 12.0,
-    "ItemName": "bagel"
-  },
-  "pk": 10,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 1,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "10.99",
-    "QuantityProvided": 80.0,
-    "ItemName": "baking powder"
-  },
-  "pk": 11,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "1.39",
-    "QuantityProvided": 48.0,
-    "ItemName": "bananas"
-  },
-  "pk": 12,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 1,
-    "UnitPrice": "4.99",
-    "QuantityProvided": 80.0,
-    "ItemName": "bar-b-que sauce"
-  },
-  "pk": 13,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 2,
-    "UnitPrice": "19.99",
-    "QuantityProvided": 9000.0,
-    "ItemName": "basmati rice"
-  },
-  "pk": 14,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 2,
-    "UnitPrice": "6.79",
-    "QuantityProvided": 914.0,
-    "ItemName": "bell peppers"
-  },
-  "pk": 15,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 1,
-    "UnitPrice": "4.69",
-    "QuantityProvided": 93.0,
-    "ItemName": "black beans"
-  },
-  "pk": 16,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "7.79",
-    "QuantityProvided": 14.0,
-    "ItemName": "black pepper"
-  },
-  "pk": 17,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "5.99",
-    "QuantityProvided": 32.0,
-    "ItemName": "blueberries"
-  },
-  "pk": 18,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 3,
-    "UnitPrice": "9.39",
-    "QuantityProvided": 160.0,
-    "ItemName": "individual bowls"
-  },
-  "pk": 19,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 3,
     "UnitPrice": "10.69",
-    "QuantityProvided": 14.0,
-    "ItemName": "bratwurst"
+    "AlreadyHave": 0
   },
-  "pk": 20,
-  "model": "calcs.purchaseableitem"
+  "model": "calcs.purchaseableitem",
+  "pk": 6
 },
 {
   "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 4,
-    "UnitPrice": "2.99",
-    "QuantityProvided": 36.0,
-    "ItemName": "bread"
-  },
-  "pk": 21,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "5.69",
-    "QuantityProvided": 92.0,
-    "ItemName": "breadcrumbs"
-  },
-  "pk": 22,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 1,
-    "UnitPrice": "4.99",
-    "QuantityProvided": 48.0,
-    "ItemName": "broccoli"
-  },
-  "pk": 23,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "4.49",
-    "QuantityProvided": 112.0,
-    "ItemName": "brown sugar"
-  },
-  "pk": 24,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "6.99",
-    "QuantityProvided": 24.0,
-    "ItemName": "butter"
-  },
-  "pk": 25,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 1,
-    "UnitPrice": "6.00",
-    "QuantityProvided": 48.0,
-    "ItemName": "caesar dressing"
-  },
-  "pk": 26,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "http://www.amazon.com/EZ-DUZ--3028-Deluxe-Opener-Grips/dp/B0071OUJDQ",
-    "QuantityUnits": 3,
-    "UnitPrice": "11.09",
-    "QuantityProvided": 1.0,
-    "ItemName": "can opener"
-  },
-  "pk": 27,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 1,
-    "PurchaseLink": "",
-    "QuantityUnits": 2,
-    "UnitPrice": "7.89",
-    "QuantityProvided": 5190.0,
-    "ItemName": "canned corn"
-  },
-  "pk": 28,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 1,
-    "UnitPrice": "5.99",
-    "QuantityProvided": 116.0,
-    "ItemName": "canned tomatoes"
-  },
-  "pk": 29,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 2,
-    "UnitPrice": "0.99",
-    "QuantityProvided": 225.0,
-    "ItemName": "frozen carrots"
-  },
-  "pk": 30,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 2,
-    "UnitPrice": "17.99",
-    "QuantityProvided": 2950.0,
-    "ItemName": "chicken breast frozen"
-  },
-  "pk": 31,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 2,
-    "UnitPrice": "2.89",
-    "QuantityProvided": 450.0,
-    "ItemName": "chicken breast"
-  },
-  "pk": 32,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "12.49",
-    "QuantityProvided": 80.0,
-    "ItemName": "chicken nuggets"
-  },
-  "pk": 33,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 2,
-    "UnitPrice": "1.99",
-    "QuantityProvided": 450.0,
-    "ItemName": "chicken thighs"
-  },
-  "pk": 34,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 1,
-    "UnitPrice": "4.79",
-    "QuantityProvided": 32.0,
-    "ItemName": "chips, potato"
-  },
-  "pk": 35,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "4.49",
-    "QuantityProvided": 22.0,
-    "ItemName": "chips, corn"
-  },
-  "pk": 36,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "http://www.amazon.com/Mother-Earth-Products-Chives-Quart/dp/B007C7IGTQ",
-    "QuantityUnits": 1,
-    "UnitPrice": "10.26",
-    "QuantityProvided": 2.6,
-    "ItemName": "chives"
-  },
-  "pk": 37,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "B00DGNKUKI",
-    "QuantityUnits": 3,
-    "UnitPrice": "20.49",
-    "QuantityProvided": 36.0,
-    "ItemName": "chocolate"
-  },
-  "pk": 38,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "9.99",
-    "QuantityProvided": 72.0,
-    "ItemName": "chocolate chips"
-  },
-  "pk": 39,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 1,
-    "UnitPrice": "2.59",
-    "QuantityProvided": 10.7,
-    "ItemName": "cinnamon"
-  },
-  "pk": 40,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "7.99",
-    "QuantityProvided": 80.0,
-    "ItemName": "clementines"
-  },
-  "pk": 41,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "http://www.amazon.com/Death-Wish-Coffee-Strongest-Certified/dp/B006CQ1ZHI",
-    "QuantityUnits": 3,
-    "UnitPrice": "19.99",
-    "QuantityProvided": 40.0,
-    "ItemName": "coffee"
-  },
-  "pk": 42,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 1,
-    "UnitPrice": "3.50",
-    "QuantityProvided": 80.0,
-    "ItemName": "corn meal"
-  },
-  "pk": 43,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "7.79",
-    "QuantityProvided": 48.0,
-    "ItemName": "cream cheese"
-  },
-  "pk": 44,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "6.99",
-    "QuantityProvided": 32.0,
-    "ItemName": "croutons"
-  },
-  "pk": 45,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 3,
-    "UnitPrice": "9.99",
-    "QuantityProvided": 240.0,
-    "ItemName": "cups"
-  },
-  "pk": 46,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 3,
-    "UnitPrice": "4.99",
-    "QuantityProvided": 6.0,
-    "ItemName": "danish"
-  },
-  "pk": 47,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 1,
-    "UnitPrice": "7.09",
-    "QuantityProvided": 16.0,
-    "ItemName": "dark soy sauce"
-  },
-  "pk": 48,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 3,
-    "UnitPrice": "16.99",
-    "QuantityProvided": 90.0,
-    "ItemName": "egg"
-  },
-  "pk": 49,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 3,
-    "UnitPrice": "9.99",
-    "QuantityProvided": 60.0,
-    "ItemName": "egg rolls"
-  },
-  "pk": 50,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 1,
-    "UnitPrice": "1.29",
-    "QuantityProvided": 24.0,
-    "ItemName": "elbow macaroni"
-  },
-  "pk": 51,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 1,
-    "UnitPrice": "11.99",
-    "QuantityProvided": 64.0,
-    "ItemName": "fish fingers"
-  },
-  "pk": 52,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 1,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "6.99",
-    "QuantityProvided": 400.0,
-    "ItemName": "flour"
-  },
-  "pk": 53,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 1,
-    "PurchaseLink": "",
-    "QuantityUnits": 3,
-    "UnitPrice": "10.99",
-    "QuantityProvided": 500.0,
-    "ItemName": "forks"
-  },
-  "pk": 54,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 3,
-    "UnitPrice": "4.99",
-    "QuantityProvided": 2.0,
-    "ItemName": "french bread"
-  },
-  "pk": 55,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 1,
-    "UnitPrice": "6.89",
-    "QuantityProvided": 128.0,
-    "ItemName": "french fries"
-  },
-  "pk": 56,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 3,
-    "UnitPrice": "8.00",
-    "QuantityProvided": 24.0,
-    "ItemName": "fried wontons"
-  },
-  "pk": 57,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 3,
-    "UnitPrice": "15.99",
-    "QuantityProvided": 36.0,
-    "ItemName": "frozen dumplings"
-  },
-  "pk": 58,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 3,
-    "UnitPrice": "32.99",
-    "QuantityProvided": 40.0,
-    "ItemName": "frozen hamburgers"
-  },
-  "pk": 59,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "13.79",
-    "QuantityProvided": 96.0,
-    "ItemName": "frozen lasagna"
-  },
-  "pk": 60,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 1,
-    "UnitPrice": "1.00",
-    "QuantityProvided": 16.0,
-    "ItemName": "frozen veggies"
-  },
-  "pk": 61,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 3,
-    "UnitPrice": "0.50",
-    "QuantityProvided": 6.0,
-    "ItemName": "garlic clove"
-  },
-  "pk": 62,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 2,
-    "UnitPrice": "4.99",
-    "QuantityProvided": 510.0,
-    "ItemName": "garlic powder"
-  },
-  "pk": 63,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 2,
-    "UnitPrice": "0.79",
-    "QuantityProvided": 75.0,
-    "ItemName": "ginger root"
-  },
-  "pk": 64,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 3,
-    "UnitPrice": "2.50",
-    "QuantityProvided": 24.0,
-    "ItemName": "graham crackers"
-  },
-  "pk": 65,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 3,
-    "UnitPrice": "12.79",
-    "QuantityProvided": 48.0,
-    "ItemName": "granola bars, peanut"
-  },
-  "pk": 66,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 1,
-    "UnitPrice": "3.00",
-    "QuantityProvided": 64.0,
-    "ItemName": "grape jelly"
-  },
-  "pk": 67,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 1,
-    "UnitPrice": "4.99",
-    "QuantityProvided": 32.0,
-    "ItemName": "green beans"
-  },
-  "pk": 68,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 1,
-    "UnitPrice": "1.99",
-    "QuantityProvided": 16.0,
-    "ItemName": "green pepper"
-  },
-  "pk": 69,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "3.69",
-    "QuantityProvided": 16.0,
-    "ItemName": "ground beef"
-  },
-  "pk": 70,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "1.99",
-    "QuantityProvided": 32.0,
-    "ItemName": "half and half"
-  },
-  "pk": 71,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 1,
-    "UnitPrice": "8.99",
-    "QuantityProvided": 48.0,
-    "ItemName": "ham"
-  },
-  "pk": 72,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 3,
-    "UnitPrice": "2.59",
-    "QuantityProvided": 16.0,
-    "ItemName": "hamburger buns"
-  },
-  "pk": 73,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 5,
-    "PurchaseLink": "http://www.amazon.com/Purell-Advanced-Instant-Sanitizer-Bottle/dp/B002XIXJOG",
-    "QuantityUnits": 3,
-    "UnitPrice": "40.42",
-    "QuantityProvided": 12.0,
-    "ItemName": "hand sanitizer"
-  },
-  "pk": 74,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 1,
-    "UnitPrice": "3.00",
-    "QuantityProvided": 8.0,
-    "ItemName": "horseradish"
-  },
-  "pk": 75,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 3,
-    "UnitPrice": "2.39",
-    "QuantityProvided": 16.0,
-    "ItemName": "hot dog buns"
-  },
-  "pk": 76,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 3,
-    "UnitPrice": "11.59",
-    "QuantityProvided": 28.0,
-    "ItemName": "hot dogs"
-  },
-  "pk": 77,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 3,
-    "PurchaseLink": "http://www.amazon.com/Ove-Glove-Hot-Surface-Handler/dp/B000VS63DE",
-    "QuantityUnits": 3,
-    "UnitPrice": "13.79",
-    "QuantityProvided": 1.0,
-    "ItemName": "hot glove"
-  },
-  "pk": 78,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "5.89",
-    "QuantityProvided": 46.0,
-    "ItemName": "hot sauce"
-  },
-  "pk": 79,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 3,
-    "UnitPrice": "13.29",
-    "QuantityProvided": 160.0,
-    "ItemName": "insulated cups"
-  },
-  "pk": 80,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 1,
-    "UnitPrice": "6.99",
-    "QuantityProvided": 64.0,
-    "ItemName": "italian dressing"
-  },
-  "pk": 81,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 3,
-    "UnitPrice": "14.80",
-    "QuantityProvided": 20.0,
-    "ItemName": "italian sausage"
-  },
-  "pk": 82,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 1,
-    "UnitPrice": "2.50",
-    "QuantityProvided": 16.0,
-    "ItemName": "jalepenos"
-  },
-  "pk": 83,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 1,
-    "UnitPrice": "4.00",
-    "QuantityProvided": 64.0,
-    "ItemName": "jam"
-  },
-  "pk": 84,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "6.69",
-    "QuantityProvided": 132.0,
-    "ItemName": "ketchup"
-  },
-  "pk": 85,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 1,
-    "UnitPrice": "1.60",
-    "QuantityProvided": 28.0,
-    "ItemName": "kidney beans"
-  },
-  "pk": 86,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "personal property",
-    "QuantityUnits": 3,
-    "UnitPrice": "0.00",
-    "QuantityProvided": 1.0,
-    "ItemName": "knife bag, knives"
-  },
-  "pk": 87,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 1,
-    "PurchaseLink": "",
-    "QuantityUnits": 3,
-    "UnitPrice": "10.99",
-    "QuantityProvided": 500.0,
-    "ItemName": "knives"
-  },
-  "pk": 88,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 1,
-    "UnitPrice": "5.09",
-    "QuantityProvided": 96.0,
-    "ItemName": "lemon juice"
-  },
-  "pk": 89,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 4,
-    "PurchaseLink": "http://www.amazon.com/BIC-Multi-Purpose-Lighter-Lighters/dp/B00GUQWAS8",
-    "QuantityUnits": 3,
-    "UnitPrice": "17.85",
-    "QuantityProvided": 4.0,
-    "ItemName": "lighter"
-  },
-  "pk": 90,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 2,
-    "UnitPrice": "11.29",
-    "QuantityProvided": 1000.0,
-    "ItemName": "maple syrup"
-  },
-  "pk": 91,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 3,
-    "UnitPrice": "2.00",
-    "QuantityProvided": 40.0,
-    "ItemName": "marshmallows"
-  },
-  "pk": 92,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "7.99",
-    "QuantityProvided": 50.0,
-    "ItemName": "mayo"
-  },
-  "pk": 93,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 3,
-    "UnitPrice": "0.00",
-    "QuantityProvided": 1.0,
-    "ItemName": "metal spatula"
-  },
-  "pk": 94,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "2.69",
-    "QuantityProvided": 128.0,
-    "ItemName": "milk"
-  },
-  "pk": 95,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 1,
-    "UnitPrice": "1.50",
-    "QuantityProvided": 4.0,
-    "ItemName": "mint"
-  },
-  "pk": 96,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 3,
-    "UnitPrice": "6.99",
-    "QuantityProvided": 12.0,
-    "ItemName": "muffins"
-  },
-  "pk": 97,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "3.39",
-    "QuantityProvided": 60.0,
-    "ItemName": "mustard"
-  },
-  "pk": 98,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "B001FVNM8K",
-    "QuantityUnits": 1,
-    "UnitPrice": "21.99",
-    "QuantityProvided": 8.0,
-    "ItemName": "nutmeg"
-  },
-  "pk": 99,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 3,
-    "UnitPrice": "8.99",
-    "QuantityProvided": 52.0,
-    "ItemName": "oatmeal"
-  },
-  "pk": 100,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "9.89",
-    "QuantityProvided": 48.0,
-    "ItemName": "olive oil"
-  },
-  "pk": 101,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 2,
-    "UnitPrice": "6.99",
-    "QuantityProvided": 4500.0,
-    "ItemName": "onion"
-  },
-  "pk": 102,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "3.59",
-    "QuantityProvided": 11.7,
-    "ItemName": "onion, diced, dried"
-  },
-  "pk": 103,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "10.89",
-    "QuantityProvided": 236.0,
-    "ItemName": "orange juice, tropicana"
-  },
-  "pk": 104,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 1,
-    "UnitPrice": "2.50",
-    "QuantityProvided": 32.0,
-    "ItemName": "oyster sauce"
-  },
-  "pk": 105,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 3,
-    "UnitPrice": "15.89",
-    "QuantityProvided": 12.0,
-    "ItemName": "paper towels"
-  },
-  "pk": 106,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "7.79",
-    "QuantityProvided": 32.0,
-    "ItemName": "parmesan cheese"
-  },
-  "pk": 107,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "9.99",
-    "QuantityProvided": 96.0,
-    "ItemName": "peanut butter"
-  },
-  "pk": 108,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 1,
-    "UnitPrice": "34.00",
-    "QuantityProvided": 640.0,
-    "ItemName": "peanut oil"
-  },
-  "pk": 109,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "B0001M0Z6Q",
-    "QuantityUnits": 1,
-    "UnitPrice": "13.49",
-    "QuantityProvided": 16.0,
-    "ItemName": "peppercorns"
-  },
-  "pk": 110,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "5.49",
-    "QuantityProvided": 64.0,
-    "ItemName": "pickles"
-  },
-  "pk": 111,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 2,
-    "UnitPrice": "9.69",
-    "QuantityProvided": 6000.0,
-    "ItemName": "pineapple juice"
-  },
-  "pk": 112,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 3,
-    "UnitPrice": "17.99",
-    "QuantityProvided": 165.0,
-    "ItemName": "plates"
-  },
-  "pk": 113,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 3,
-    "UnitPrice": "0.99",
-    "QuantityProvided": 1.0,
-    "ItemName": "portobello mushrooms"
-  },
-  "pk": 114,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 1,
-    "UnitPrice": "1.99",
-    "QuantityProvided": 16.0,
-    "ItemName": "pork cubes"
-  },
-  "pk": 115,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "8.99",
-    "QuantityProvided": 32.0,
-    "ItemName": "pot stickers"
-  },
-  "pk": 116,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 2,
-    "UnitPrice": "8.99",
-    "QuantityProvided": 6800.0,
-    "ItemName": "potato"
-  },
-  "pk": 117,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "4.49",
-    "QuantityProvided": 112.0,
-    "ItemName": "powdered sugar"
-  },
-  "pk": 118,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 1,
-    "PurchaseLink": "",
-    "QuantityUnits": 3,
-    "UnitPrice": "50.00",
-    "QuantityProvided": 1.0,
-    "ItemName": "prep table, 6x3"
-  },
-  "pk": 119,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 2,
-    "PurchaseLink": "costco denali 3x",
-    "QuantityUnits": 3,
-    "UnitPrice": "169.99",
-    "QuantityProvided": 1.0,
-    "ItemName": "propane stove"
-  },
-  "pk": 120,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "9.49",
-    "QuantityProvided": 64.0,
-    "ItemName": "raisins"
-  },
-  "pk": 121,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "8.79",
-    "QuantityProvided": 80.0,
-    "ItemName": "ranch dressing"
-  },
-  "pk": 122,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 1,
-    "UnitPrice": "4.50",
-    "QuantityProvided": 96.0,
-    "ItemName": "refried beans"
-  },
-  "pk": 123,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "7.99",
-    "QuantityProvided": 118.0,
-    "ItemName": "relish"
-  },
-  "pk": 124,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 3,
-    "UnitPrice": "3.99",
-    "QuantityProvided": 6.0,
-    "ItemName": "romaine lettuce"
-  },
-  "pk": 125,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 1,
-    "UnitPrice": "5.99",
-    "QuantityProvided": 16.0,
-    "ItemName": "salami"
-  },
-  "pk": 126,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 4,
-    "UnitPrice": "7.99",
-    "QuantityProvided": 40.0,
-    "ItemName": "sandwich cheese"
-  },
-  "pk": 127,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "http://www.amazon.com/Morton-Coarse-Kosher-Salt-Pound/dp/B000Q68WSA",
-    "QuantityUnits": 1,
-    "UnitPrice": "1.84",
-    "QuantityProvided": 48.0,
-    "ItemName": "salt"
-  },
-  "pk": 128,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "10.49",
-    "QuantityProvided": 56.0,
-    "ItemName": "sausage, pork, breakfast"
-  },
-  "pk": 129,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "http://www.amazon.com/Cuisinart-735-24-Classic-Stainless-3-Quart/dp/B000E57BC6",
-    "QuantityUnits": 3,
-    "UnitPrice": "25.49",
-    "QuantityProvided": 1.0,
-    "ItemName": "saute pan"
-  },
-  "pk": 130,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "http://www.amazon.com/American-Weigh-LB-3000-Compact-Removable/dp/B002SVNEWA",
-    "QuantityUnits": 3,
-    "UnitPrice": "23.89",
-    "QuantityProvided": 1.0,
-    "ItemName": "scale"
-  },
-  "pk": 131,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "http://www.amazon.com/Kitchen-Shears-Stainless-Steel-9-inch/dp/B000KKKUSM",
-    "QuantityUnits": 3,
-    "UnitPrice": "5.71",
-    "QuantityProvided": 1.0,
-    "ItemName": "scissors"
-  },
-  "pk": 132,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "2.79",
-    "QuantityProvided": 30.0,
-    "ItemName": "sea salt"
-  },
-  "pk": 133,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 3,
-    "UnitPrice": "1.00",
-    "QuantityProvided": 8.0,
-    "ItemName": "serrano peppers"
-  },
-  "pk": 134,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 12,
-    "PurchaseLink": "http://www.amazon.com/dp/B00915MSY6",
-    "QuantityUnits": 3,
-    "UnitPrice": "18.95",
-    "QuantityProvided": 12.0,
-    "ItemName": "serving spoons"
-  },
-  "pk": 135,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "11.29",
-    "QuantityProvided": 80.0,
-    "ItemName": "shredded cheese, cheddar"
-  },
-  "pk": 136,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "8.39",
-    "QuantityProvided": 48.0,
-    "ItemName": "shredded cheese, mexican blend"
-  },
-  "pk": 137,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 1,
-    "UnitPrice": "13.99",
-    "QuantityProvided": 32.0,
-    "ItemName": "shrimp"
-  },
-  "pk": 138,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "for Pepsi (most expensive per unit)",
-    "QuantityUnits": 3,
-    "UnitPrice": "9.99",
-    "QuantityProvided": 36.0,
-    "ItemName": "soda"
-  },
-  "pk": 139,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 1,
-    "UnitPrice": "3.89",
-    "QuantityProvided": 48.0,
-    "ItemName": "sour cream"
-  },
-  "pk": 140,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 2,
-    "UnitPrice": "5.29",
-    "QuantityProvided": 1800.0,
-    "ItemName": "soy sauce"
-  },
-  "pk": 141,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 1,
-    "UnitPrice": "8.99",
-    "QuantityProvided": 128.0,
-    "ItemName": "spaghetti"
-  },
-  "pk": 142,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 1,
-    "PurchaseLink": "http://www.amazon.com/Epica-Electric-Grinder-Stainless-Removable-Grinding/dp/B00JFHHMN2",
-    "QuantityUnits": 3,
-    "UnitPrice": "23.95",
-    "QuantityProvided": 1.0,
-    "ItemName": "spice mill"
-  },
-  "pk": 143,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 1,
-    "PurchaseLink": "",
-    "QuantityUnits": 3,
-    "UnitPrice": "10.99",
-    "QuantityProvided": 500.0,
-    "ItemName": "spoons"
-  },
-  "pk": 144,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 3,
-    "UnitPrice": "9.99",
-    "QuantityProvided": 30.0,
-    "ItemName": "spring rolls"
-  },
-  "pk": 145,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "6.99",
-    "QuantityProvided": 42.0,
-    "ItemName": "strawberry jelly"
-  },
-  "pk": 146,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 30,
-    "PurchaseLink": "costco.",
-    "QuantityUnits": 3,
-    "UnitPrice": "20.00",
-    "QuantityProvided": 48.0,
-    "ItemName": "sterno"
-  },
-  "pk": 147,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 2,
-    "UnitPrice": "4.29",
-    "QuantityProvided": 4500.0,
-    "ItemName": "sugar"
-  },
-  "pk": 148,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 1,
-    "UnitPrice": "1.50",
-    "QuantityProvided": 16.0,
-    "ItemName": "taco sauce"
-  },
-  "pk": 149,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 1,
-    "UnitPrice": "2.00",
-    "QuantityProvided": 16.0,
-    "ItemName": "taco seasoning"
-  },
-  "pk": 150,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 3,
-    "UnitPrice": "2.00",
-    "QuantityProvided": 12.0,
-    "ItemName": "taco shells"
-  },
-  "pk": 151,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 3,
-    "UnitPrice": "8.39",
-    "QuantityProvided": 312.0,
-    "ItemName": "tea"
-  },
-  "pk": 152,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "http://www.amazon.com/Ultra-Accurate-High-Performing-Digital-Thermometer/dp/B00GRFHXVQ",
-    "QuantityUnits": 3,
-    "UnitPrice": "90.00",
-    "QuantityProvided": 1.0,
-    "ItemName": "thermapen"
-  },
-  "pk": 153,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 2,
-    "UnitPrice": "5.29",
-    "QuantityProvided": 1580.0,
-    "ItemName": "tofu"
-  },
-  "pk": 154,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "6.99",
-    "QuantityProvided": 80.0,
-    "ItemName": "tomato, whole"
-  },
-  "pk": 155,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "8.89",
-    "QuantityProvided": 80.0,
-    "ItemName": "tomato sauce"
-  },
-  "pk": 156,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 2,
-    "UnitPrice": "5.69",
-    "QuantityProvided": 450.0,
-    "ItemName": "top round beef"
-  },
-  "pk": 157,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 3,
-    "UnitPrice": "4.29",
-    "QuantityProvided": 20.0,
-    "ItemName": "tortillas"
-  },
-  "pk": 158,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 3,
-    "UnitPrice": "16.49",
-    "QuantityProvided": 140.0,
-    "ItemName": "trash bags, small"
-  },
-  "pk": 159,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 3,
-    "UnitPrice": "12.89",
-    "QuantityProvided": 50.0,
-    "ItemName": "trash bags, 55 gal"
-  },
-  "pk": 160,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 3,
-    "UnitPrice": "10.99",
-    "QuantityProvided": 12.0,
-    "ItemName": "turkey burgers"
-  },
-  "pk": 161,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 1,
-    "UnitPrice": "7.99",
-    "QuantityProvided": 45.0,
-    "ItemName": "whipped cream"
-  },
-  "pk": 162,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 3,
-    "PurchaseLink": "http://www.amazon.com/Winco-Stainless-Steel-Piano-10-Inch/dp/B001E87S66",
-    "QuantityUnits": 3,
-    "UnitPrice": "3.02",
-    "QuantityProvided": 1.0,
-    "ItemName": "whisk"
-  },
-  "pk": 163,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 2,
-    "PurchaseLink": "http://www.amazon.com/Eastman-Outdoors-37206-Outdoor-Gourmet/dp/B0000CAQ0S",
-    "QuantityUnits": 3,
-    "UnitPrice": "39.99",
-    "QuantityProvided": 1.0,
-    "ItemName": "wok"
-  },
-  "pk": 164,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 1,
-    "PurchaseLink": "http://www.amazon.com/Town-Service-53180-Asian-Brush/dp/B000VVMJYS",
-    "QuantityUnits": 3,
-    "UnitPrice": "10.95",
-    "QuantityProvided": 1.0,
-    "ItemName": "wok brush"
-  },
-  "pk": 165,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 4,
-    "PurchaseLink": "http://www.amazon.com/Joyce-Chen-33-2015-Burnished-Stir-Fry/dp/B0000VLQDE",
-    "QuantityUnits": 3,
-    "UnitPrice": "5.72",
-    "QuantityProvided": 1.0,
-    "ItemName": "wok implement"
-  },
-  "pk": 166,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
     "QuantityUnits": 1,
-    "UnitPrice": "6.89",
-    "QuantityProvided": 40.0,
-    "ItemName": "worstershire sauce"
-  },
-  "pk": 167,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 3,
-    "UnitPrice": "8.99",
-    "QuantityProvided": 24.0,
-    "ItemName": "yogurt cups, individual"
-  },
-  "pk": 168,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 3,
-    "UnitPrice": "14.79",
-    "QuantityProvided": 12.0,
-    "ItemName": "veggie burgers"
-  },
-  "pk": 169,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
+    "ItemName": "apple juice",
     "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": null,
-    "QuantityUnits": 2,
-    "UnitPrice": "1.00",
-    "QuantityProvided": 450.0,
-    "ItemName": "zucchini"
-  },
-  "pk": 170,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 8,
-    "PurchaseLink": "http://www.amazon.com/Cook-5-Quart-Stainless-Steel-Mixing/dp/B001U0O36G",
-    "QuantityUnits": 3,
-    "UnitPrice": "7.16",
-    "QuantityProvided": 1.0,
-    "ItemName": "mixing bowl"
-  },
-  "pk": 171,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 1,
-    "PurchaseLink": "http://www.amazon.com/Colgin-Liquid-Smoke-16-0-Ounce/dp/B000YOMRA8",
-    "QuantityUnits": 2,
-    "UnitPrice": "11.99",
-    "QuantityProvided": 450.0,
-    "ItemName": "liquid smoke"
-  },
-  "pk": 172,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 2,
-    "UnitPrice": "4.99",
-    "QuantityProvided": 450.0,
-    "ItemName": "salsa"
-  },
-  "pk": 173,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-05",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 3,
-    "UnitPrice": "11.99",
-    "QuantityProvided": 20.0,
-    "ItemName": "guacamole"
-  },
-  "pk": 174,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-13",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 3,
-    "UnitPrice": "22.99",
-    "QuantityProvided": 1000.0,
-    "ItemName": "aluminum foil"
-  },
-  "pk": 175,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-13",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 2,
-    "UnitPrice": "4.49",
-    "QuantityProvided": 1360.0,
-    "ItemName": "garlic, minced, in oil"
-  },
-  "pk": 176,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-13",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 3,
-    "UnitPrice": "8.79",
-    "QuantityProvided": 60.0,
-    "ItemName": "granola bars, chocolate chip"
-  },
-  "pk": 177,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-13",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "8.99",
-    "QuantityProvided": 64.0,
-    "ItemName": "potato salad"
-  },
-  "pk": 178,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-13",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "7.79",
-    "QuantityProvided": 30.0,
-    "ItemName": "salsa, fresca"
-  },
-  "pk": 179,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-13",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "6.69",
-    "QuantityProvided": 80.0,
-    "ItemName": "peas, frozen"
-  },
-  "pk": 180,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-13",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 1,
-    "UnitPrice": "6.29",
-    "QuantityProvided": 80.0,
-    "ItemName": "corn, frozen"
-  },
-  "pk": 181,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-13",
-    "AlreadyHave": 0,
     "PurchaseLink": "",
-    "QuantityUnits": 3,
+    "QuantityProvided": 256.0,
     "UnitPrice": "8.49",
-    "QuantityProvided": 1040.0,
-    "ItemName": "napkins"
+    "AlreadyHave": 0
   },
-  "pk": 182,
-  "model": "calcs.purchaseableitem"
+  "model": "calcs.purchaseableitem",
+  "pk": 7
 },
 {
   "fields": {
-    "PriceUpdatedDate": "2015-06-13",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
     "QuantityUnits": 3,
-    "UnitPrice": "12.99",
-    "QuantityProvided": 3000.0,
-    "ItemName": "plastic wrap"
+    "ItemName": "apples",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 10.0,
+    "UnitPrice": "7.99",
+    "AlreadyHave": 0
   },
-  "pk": 183,
-  "model": "calcs.purchaseableitem"
+  "model": "calcs.purchaseableitem",
+  "pk": 8
 },
 {
   "fields": {
-    "PriceUpdatedDate": "2015-06-13",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 3,
-    "UnitPrice": "40.00",
-    "QuantityProvided": 1.0,
-    "ItemName": "prep table, 4x2"
-  },
-  "pk": 184,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-13",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 3,
-    "UnitPrice": "5.00",
-    "QuantityProvided": 1.0,
-    "ItemName": "watermelon"
-  },
-  "pk": 185,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-13",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 3,
-    "UnitPrice": "3.39",
-    "QuantityProvided": 40.0,
-    "ItemName": "water, bottled"
-  },
-  "pk": 186,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-13",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 3,
-    "UnitPrice": "8.69",
-    "QuantityProvided": 1.0,
-    "ItemName": "condiment pack, k/m/r"
-  },
-  "pk": 187,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-13",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 3,
-    "UnitPrice": "2.99",
-    "QuantityProvided": 1.0,
-    "ItemName": "chafing dish"
-  },
-  "pk": 188,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-13",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 3,
-    "UnitPrice": "11.49",
-    "QuantityProvided": 18.0,
-    "ItemName": "sponges"
-  },
-  "pk": 189,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-13",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 3,
-    "UnitPrice": "12.99",
-    "QuantityProvided": 480.0,
-    "ItemName": "clorox wipes"
-  },
-  "pk": 190,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-13",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
     "QuantityUnits": 1,
-    "UnitPrice": "8.89",
-    "QuantityProvided": 135.0,
-    "ItemName": "dish soap"
+    "ItemName": "bacon",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 64.0,
+    "UnitPrice": "8.99",
+    "AlreadyHave": 0
   },
-  "pk": 191,
-  "model": "calcs.purchaseableitem"
+  "model": "calcs.purchaseableitem",
+  "pk": 9
 },
 {
   "fields": {
-    "PriceUpdatedDate": "2015-06-13",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 2,
-    "UnitPrice": "15.49",
-    "QuantityProvided": 1134.0,
-    "ItemName": "cashews"
+    "QuantityUnits": 3,
+    "ItemName": "bagel",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 12.0,
+    "UnitPrice": "5.49",
+    "AlreadyHave": 0
   },
-  "pk": 192,
-  "model": "calcs.purchaseableitem"
+  "model": "calcs.purchaseableitem",
+  "pk": 10
 },
 {
   "fields": {
-    "PriceUpdatedDate": "2015-06-15",
-    "AlreadyHave": 0,
+    "QuantityUnits": 1,
+    "ItemName": "baking powder",
+    "PriceUpdatedDate": "2015-06-05",
     "PurchaseLink": "",
-    "QuantityUnits": 2,
-    "UnitPrice": "1.99",
-    "QuantityProvided": 150.0,
-    "ItemName": "leeks"
-  },
-  "pk": 193,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-15",
-    "AlreadyHave": 0,
-    "PurchaseLink": "",
-    "QuantityUnits": 2,
-    "UnitPrice": "0.99",
     "QuantityProvided": 80.0,
-    "ItemName": "scallions"
+    "UnitPrice": "10.99",
+    "AlreadyHave": 1
   },
-  "pk": 194,
-  "model": "calcs.purchaseableitem"
+  "model": "calcs.purchaseableitem",
+  "pk": 11
 },
 {
   "fields": {
-    "PriceUpdatedDate": "2015-06-15",
-    "AlreadyHave": 0,
+    "QuantityUnits": 1,
+    "ItemName": "bananas",
+    "PriceUpdatedDate": "2015-06-05",
     "PurchaseLink": "",
-    "QuantityUnits": 2,
-    "UnitPrice": "0.00",
-    "QuantityProvided": 54.3,
-    "ItemName": "kung pao marinade"
+    "QuantityProvided": 48.0,
+    "UnitPrice": "1.39",
+    "AlreadyHave": 0
   },
-  "pk": 195,
-  "model": "calcs.purchaseableitem"
+  "model": "calcs.purchaseableitem",
+  "pk": 12
 },
 {
   "fields": {
-    "PriceUpdatedDate": "2015-06-15",
-    "AlreadyHave": 0,
+    "QuantityUnits": 1,
+    "ItemName": "bar-b-que sauce",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 80.0,
+    "UnitPrice": "4.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 13
+},
+{
+  "fields": {
+    "QuantityUnits": 2,
+    "ItemName": "basmati rice",
+    "PriceUpdatedDate": "2015-06-05",
     "PurchaseLink": "",
-    "QuantityUnits": 2,
-    "UnitPrice": "0.00",
-    "QuantityProvided": 310.2,
-    "ItemName": "kung pao sauce"
+    "QuantityProvided": 9000.0,
+    "UnitPrice": "19.99",
+    "AlreadyHave": 0
   },
-  "pk": 196,
-  "model": "calcs.purchaseableitem"
+  "model": "calcs.purchaseableitem",
+  "pk": 14
 },
 {
   "fields": {
-    "PriceUpdatedDate": "2015-06-15",
-    "AlreadyHave": 0,
+    "QuantityUnits": 2,
+    "ItemName": "bell peppers",
+    "PriceUpdatedDate": "2015-06-05",
     "PurchaseLink": "",
-    "QuantityUnits": 2,
-    "UnitPrice": "3.99",
-    "QuantityProvided": 750.0,
-    "ItemName": "shao zheng wine"
+    "QuantityProvided": 914.0,
+    "UnitPrice": "6.79",
+    "AlreadyHave": 0
   },
-  "pk": 197,
-  "model": "calcs.purchaseableitem"
+  "model": "calcs.purchaseableitem",
+  "pk": 15
 },
 {
   "fields": {
-    "PriceUpdatedDate": "2015-06-15",
-    "AlreadyHave": 0,
+    "QuantityUnits": 1,
+    "ItemName": "black beans",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 93.0,
+    "UnitPrice": "4.69",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 16
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "black pepper",
+    "PriceUpdatedDate": "2015-06-05",
     "PurchaseLink": "",
-    "QuantityUnits": 2,
-    "UnitPrice": "1.99",
-    "QuantityProvided": 450.0,
-    "ItemName": "corn starch"
+    "QuantityProvided": 14.0,
+    "UnitPrice": "7.79",
+    "AlreadyHave": 0
   },
-  "pk": 198,
-  "model": "calcs.purchaseableitem"
+  "model": "calcs.purchaseableitem",
+  "pk": 17
 },
 {
   "fields": {
-    "PriceUpdatedDate": "2015-06-15",
-    "AlreadyHave": 0,
+    "QuantityUnits": 1,
+    "ItemName": "blueberries",
+    "PriceUpdatedDate": "2015-06-05",
     "PurchaseLink": "",
-    "QuantityUnits": 2,
-    "UnitPrice": "11.99",
-    "QuantityProvided": 750.0,
-    "ItemName": "sherry, dry"
+    "QuantityProvided": 32.0,
+    "UnitPrice": "5.99",
+    "AlreadyHave": 0
   },
-  "pk": 199,
-  "model": "calcs.purchaseableitem"
+  "model": "calcs.purchaseableitem",
+  "pk": 18
 },
 {
   "fields": {
-    "PriceUpdatedDate": "2015-06-15",
-    "AlreadyHave": 1,
-    "PurchaseLink": "B00EYFKNL8",
-    "QuantityUnits": 2,
-    "UnitPrice": "18.99",
-    "QuantityProvided": 2250.0,
-    "ItemName": "citric acid"
-  },
-  "pk": 200,
-  "model": "calcs.purchaseableitem"
-},
-{
-  "fields": {
-    "PriceUpdatedDate": "2015-06-15",
-    "AlreadyHave": 0,
+    "QuantityUnits": 3,
+    "ItemName": "individual bowls",
+    "PriceUpdatedDate": "2015-06-05",
     "PurchaseLink": "",
-    "QuantityUnits": 2,
+    "QuantityProvided": 160.0,
+    "UnitPrice": "9.39",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 19
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "bratwurst",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 14.0,
+    "UnitPrice": "10.69",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 20
+},
+{
+  "fields": {
+    "QuantityUnits": 4,
+    "ItemName": "bread",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 36.0,
     "UnitPrice": "2.99",
-    "QuantityProvided": 250.0,
-    "ItemName": "black bean paste"
+    "AlreadyHave": 0
   },
-  "pk": 201,
-  "model": "calcs.purchaseableitem"
+  "model": "calcs.purchaseableitem",
+  "pk": 21
 },
 {
   "fields": {
-    "PriceUpdatedDate": "2015-06-15",
-    "AlreadyHave": 0,
+    "QuantityUnits": 1,
+    "ItemName": "breadcrumbs",
+    "PriceUpdatedDate": "2015-06-05",
     "PurchaseLink": "",
-    "QuantityUnits": 2,
-    "UnitPrice": "9.40",
-    "QuantityProvided": 225.0,
-    "ItemName": "sichuan peppercorns"
+    "QuantityProvided": 92.0,
+    "UnitPrice": "5.69",
+    "AlreadyHave": 0
   },
-  "pk": 202,
-  "model": "calcs.purchaseableitem"
+  "model": "calcs.purchaseableitem",
+  "pk": 22
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "broccoli",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 48.0,
+    "UnitPrice": "4.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 23
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "brown sugar",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 112.0,
+    "UnitPrice": "4.49",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 24
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "butter",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 24.0,
+    "UnitPrice": "6.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 25
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "caesar dressing",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 48.0,
+    "UnitPrice": "6.00",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 26
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "can opener",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "http://www.amazon.com/EZ-DUZ--3028-Deluxe-Opener-Grips/dp/B0071OUJDQ",
+    "QuantityProvided": 1.0,
+    "UnitPrice": "11.09",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 27
+},
+{
+  "fields": {
+    "QuantityUnits": 2,
+    "ItemName": "canned corn",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 5190.0,
+    "UnitPrice": "7.89",
+    "AlreadyHave": 1
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 28
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "canned tomatoes",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 116.0,
+    "UnitPrice": "5.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 29
+},
+{
+  "fields": {
+    "QuantityUnits": 2,
+    "ItemName": "frozen carrots",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 225.0,
+    "UnitPrice": "0.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 30
+},
+{
+  "fields": {
+    "QuantityUnits": 2,
+    "ItemName": "chicken breast frozen",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 2950.0,
+    "UnitPrice": "17.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 31
+},
+{
+  "fields": {
+    "QuantityUnits": 2,
+    "ItemName": "chicken breast",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 450.0,
+    "UnitPrice": "2.89",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 32
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "chicken nuggets",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 80.0,
+    "UnitPrice": "12.49",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 33
+},
+{
+  "fields": {
+    "QuantityUnits": 2,
+    "ItemName": "chicken thighs",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 450.0,
+    "UnitPrice": "1.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 34
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "chips, potato",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 32.0,
+    "UnitPrice": "4.79",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 35
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "chips, corn",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 22.0,
+    "UnitPrice": "4.49",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 36
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "chives",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "http://www.amazon.com/Mother-Earth-Products-Chives-Quart/dp/B007C7IGTQ",
+    "QuantityProvided": 2.6,
+    "UnitPrice": "10.26",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 37
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "chocolate",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "B00DGNKUKI",
+    "QuantityProvided": 36.0,
+    "UnitPrice": "20.49",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 38
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "chocolate chips",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 72.0,
+    "UnitPrice": "9.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 39
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "cinnamon",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 10.7,
+    "UnitPrice": "2.59",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 40
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "clementines",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 80.0,
+    "UnitPrice": "7.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 41
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "coffee",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "http://www.amazon.com/Death-Wish-Coffee-Strongest-Certified/dp/B006CQ1ZHI",
+    "QuantityProvided": 40.0,
+    "UnitPrice": "19.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 42
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "corn meal",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 80.0,
+    "UnitPrice": "3.50",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 43
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "cream cheese",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 48.0,
+    "UnitPrice": "7.79",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 44
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "croutons",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 32.0,
+    "UnitPrice": "6.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 45
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "cups",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 240.0,
+    "UnitPrice": "9.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 46
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "danish",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 6.0,
+    "UnitPrice": "4.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 47
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "dark soy sauce",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 16.0,
+    "UnitPrice": "7.09",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 48
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "egg",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 90.0,
+    "UnitPrice": "16.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 49
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "egg rolls",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 60.0,
+    "UnitPrice": "9.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 50
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "elbow macaroni",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 24.0,
+    "UnitPrice": "1.29",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 51
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "fish fingers",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 64.0,
+    "UnitPrice": "11.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 52
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "flour",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 400.0,
+    "UnitPrice": "6.99",
+    "AlreadyHave": 1
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 53
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "forks",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 500.0,
+    "UnitPrice": "10.99",
+    "AlreadyHave": 1
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 54
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "french bread",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 2.0,
+    "UnitPrice": "4.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 55
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "french fries",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 128.0,
+    "UnitPrice": "6.89",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 56
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "fried wontons",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 24.0,
+    "UnitPrice": "8.00",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 57
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "frozen dumplings",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 36.0,
+    "UnitPrice": "15.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 58
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "frozen hamburgers",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 40.0,
+    "UnitPrice": "32.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 59
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "frozen lasagna",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 96.0,
+    "UnitPrice": "13.79",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 60
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "frozen veggies",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 16.0,
+    "UnitPrice": "1.00",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 61
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "garlic clove",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 6.0,
+    "UnitPrice": "0.50",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 62
+},
+{
+  "fields": {
+    "QuantityUnits": 2,
+    "ItemName": "garlic powder",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 510.0,
+    "UnitPrice": "4.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 63
+},
+{
+  "fields": {
+    "QuantityUnits": 2,
+    "ItemName": "ginger root",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 75.0,
+    "UnitPrice": "0.79",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 64
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "graham crackers",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 24.0,
+    "UnitPrice": "2.50",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 65
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "granola bars, peanut",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 48.0,
+    "UnitPrice": "12.79",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 66
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "grape jelly",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 64.0,
+    "UnitPrice": "3.00",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 67
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "green beans",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 32.0,
+    "UnitPrice": "4.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 68
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "green pepper",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 16.0,
+    "UnitPrice": "1.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 69
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "ground beef",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 16.0,
+    "UnitPrice": "3.69",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 70
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "half and half",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 32.0,
+    "UnitPrice": "1.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 71
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "ham",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 48.0,
+    "UnitPrice": "8.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 72
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "hamburger buns",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 16.0,
+    "UnitPrice": "2.59",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 73
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "hand sanitizer",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "http://www.amazon.com/Purell-Advanced-Instant-Sanitizer-Bottle/dp/B002XIXJOG",
+    "QuantityProvided": 12.0,
+    "UnitPrice": "40.42",
+    "AlreadyHave": 5
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 74
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "horseradish",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 8.0,
+    "UnitPrice": "3.00",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 75
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "hot dog buns",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 16.0,
+    "UnitPrice": "2.39",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 76
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "hot dogs",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 28.0,
+    "UnitPrice": "11.59",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 77
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "hot glove",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "http://www.amazon.com/Ove-Glove-Hot-Surface-Handler/dp/B000VS63DE",
+    "QuantityProvided": 1.0,
+    "UnitPrice": "13.79",
+    "AlreadyHave": 3
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 78
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "hot sauce",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 46.0,
+    "UnitPrice": "5.89",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 79
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "insulated cups",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 160.0,
+    "UnitPrice": "13.29",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 80
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "italian dressing",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 64.0,
+    "UnitPrice": "6.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 81
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "italian sausage",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 20.0,
+    "UnitPrice": "14.80",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 82
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "jalepenos",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 16.0,
+    "UnitPrice": "2.50",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 83
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "jam",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 64.0,
+    "UnitPrice": "4.00",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 84
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "ketchup",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 132.0,
+    "UnitPrice": "6.69",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 85
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "kidney beans",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 28.0,
+    "UnitPrice": "1.60",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 86
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "knife bag, knives",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "personal property",
+    "QuantityProvided": 1.0,
+    "UnitPrice": "0.00",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 87
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "knives",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 500.0,
+    "UnitPrice": "10.99",
+    "AlreadyHave": 1
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 88
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "lemon juice",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 96.0,
+    "UnitPrice": "5.09",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 89
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "lighter",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "http://www.amazon.com/BIC-Multi-Purpose-Lighter-Lighters/dp/B00GUQWAS8",
+    "QuantityProvided": 4.0,
+    "UnitPrice": "17.85",
+    "AlreadyHave": 4
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 90
+},
+{
+  "fields": {
+    "QuantityUnits": 2,
+    "ItemName": "maple syrup",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 1000.0,
+    "UnitPrice": "11.29",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 91
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "marshmallows",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 40.0,
+    "UnitPrice": "2.00",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 92
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "mayo",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 50.0,
+    "UnitPrice": "7.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 93
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "metal spatula",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 1.0,
+    "UnitPrice": "0.00",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 94
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "milk",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 128.0,
+    "UnitPrice": "2.69",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 95
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "mint",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 4.0,
+    "UnitPrice": "1.50",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 96
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "muffins",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 12.0,
+    "UnitPrice": "6.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 97
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "mustard",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 60.0,
+    "UnitPrice": "3.39",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 98
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "nutmeg",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "B001FVNM8K",
+    "QuantityProvided": 8.0,
+    "UnitPrice": "21.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 99
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "oatmeal",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 52.0,
+    "UnitPrice": "8.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 100
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "olive oil",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 48.0,
+    "UnitPrice": "9.89",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 101
+},
+{
+  "fields": {
+    "QuantityUnits": 2,
+    "ItemName": "onion",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 4500.0,
+    "UnitPrice": "6.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 102
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "onion, diced, dried",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 11.7,
+    "UnitPrice": "3.59",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 103
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "orange juice, tropicana",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 236.0,
+    "UnitPrice": "10.89",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 104
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "oyster sauce",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 32.0,
+    "UnitPrice": "2.50",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 105
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "paper towels",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 12.0,
+    "UnitPrice": "15.89",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 106
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "parmesan cheese",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 32.0,
+    "UnitPrice": "7.79",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 107
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "peanut butter",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 96.0,
+    "UnitPrice": "9.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 108
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "peanut oil",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 640.0,
+    "UnitPrice": "34.00",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 109
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "peppercorns",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "B0001M0Z6Q",
+    "QuantityProvided": 16.0,
+    "UnitPrice": "13.49",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 110
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "pickles",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 64.0,
+    "UnitPrice": "5.49",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 111
+},
+{
+  "fields": {
+    "QuantityUnits": 2,
+    "ItemName": "pineapple juice",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 6000.0,
+    "UnitPrice": "9.69",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 112
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "plates",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 165.0,
+    "UnitPrice": "17.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 113
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "portobello mushrooms",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 1.0,
+    "UnitPrice": "0.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 114
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "pork cubes",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 16.0,
+    "UnitPrice": "1.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 115
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "pot stickers",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 32.0,
+    "UnitPrice": "8.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 116
+},
+{
+  "fields": {
+    "QuantityUnits": 2,
+    "ItemName": "potato",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 6800.0,
+    "UnitPrice": "8.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 117
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "powdered sugar",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 112.0,
+    "UnitPrice": "4.49",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 118
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "prep table, 6x3",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 1.0,
+    "UnitPrice": "50.00",
+    "AlreadyHave": 1
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 119
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "propane stove",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "costco denali 3x",
+    "QuantityProvided": 1.0,
+    "UnitPrice": "169.99",
+    "AlreadyHave": 2
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 120
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "raisins",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 64.0,
+    "UnitPrice": "9.49",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 121
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "ranch dressing",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 80.0,
+    "UnitPrice": "8.79",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 122
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "refried beans",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 96.0,
+    "UnitPrice": "4.50",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 123
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "relish",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 118.0,
+    "UnitPrice": "7.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 124
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "romaine lettuce",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 6.0,
+    "UnitPrice": "3.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 125
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "salami",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 16.0,
+    "UnitPrice": "5.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 126
+},
+{
+  "fields": {
+    "QuantityUnits": 4,
+    "ItemName": "sandwich cheese",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 40.0,
+    "UnitPrice": "7.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 127
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "salt",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "http://www.amazon.com/Morton-Coarse-Kosher-Salt-Pound/dp/B000Q68WSA",
+    "QuantityProvided": 48.0,
+    "UnitPrice": "1.84",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 128
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "sausage, pork, breakfast",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 56.0,
+    "UnitPrice": "10.49",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 129
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "saute pan",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "http://www.amazon.com/Cuisinart-735-24-Classic-Stainless-3-Quart/dp/B000E57BC6",
+    "QuantityProvided": 1.0,
+    "UnitPrice": "25.49",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 130
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "scale",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "http://www.amazon.com/American-Weigh-LB-3000-Compact-Removable/dp/B002SVNEWA",
+    "QuantityProvided": 1.0,
+    "UnitPrice": "23.89",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 131
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "scissors",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "http://www.amazon.com/Kitchen-Shears-Stainless-Steel-9-inch/dp/B000KKKUSM",
+    "QuantityProvided": 1.0,
+    "UnitPrice": "5.71",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 132
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "sea salt",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 30.0,
+    "UnitPrice": "2.79",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 133
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "serrano peppers",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 8.0,
+    "UnitPrice": "1.00",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 134
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "serving spoons",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "http://www.amazon.com/dp/B00915MSY6",
+    "QuantityProvided": 12.0,
+    "UnitPrice": "18.95",
+    "AlreadyHave": 12
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 135
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "shredded cheese, cheddar",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 80.0,
+    "UnitPrice": "11.29",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 136
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "shredded cheese, mexican blend",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 48.0,
+    "UnitPrice": "8.39",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 137
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "shrimp",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 32.0,
+    "UnitPrice": "13.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 138
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "soda",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "for Pepsi (most expensive per unit)",
+    "QuantityProvided": 36.0,
+    "UnitPrice": "9.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 139
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "sour cream",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 48.0,
+    "UnitPrice": "3.89",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 140
+},
+{
+  "fields": {
+    "QuantityUnits": 2,
+    "ItemName": "soy sauce",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 1800.0,
+    "UnitPrice": "5.29",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 141
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "spaghetti",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 128.0,
+    "UnitPrice": "8.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 142
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "spice mill",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "http://www.amazon.com/Epica-Electric-Grinder-Stainless-Removable-Grinding/dp/B00JFHHMN2",
+    "QuantityProvided": 1.0,
+    "UnitPrice": "23.95",
+    "AlreadyHave": 1
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 143
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "spoons",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 500.0,
+    "UnitPrice": "10.99",
+    "AlreadyHave": 1
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 144
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "spring rolls",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 30.0,
+    "UnitPrice": "9.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 145
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "strawberry jelly",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 42.0,
+    "UnitPrice": "6.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 146
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "sterno",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "costco.",
+    "QuantityProvided": 48.0,
+    "UnitPrice": "20.00",
+    "AlreadyHave": 30
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 147
+},
+{
+  "fields": {
+    "QuantityUnits": 2,
+    "ItemName": "sugar",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 4500.0,
+    "UnitPrice": "4.29",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 148
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "taco sauce",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 16.0,
+    "UnitPrice": "1.50",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 149
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "taco seasoning",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 16.0,
+    "UnitPrice": "2.00",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 150
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "taco shells",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 12.0,
+    "UnitPrice": "2.00",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 151
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "tea",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 312.0,
+    "UnitPrice": "8.39",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 152
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "thermapen",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "http://www.amazon.com/Ultra-Accurate-High-Performing-Digital-Thermometer/dp/B00GRFHXVQ",
+    "QuantityProvided": 1.0,
+    "UnitPrice": "90.00",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 153
+},
+{
+  "fields": {
+    "QuantityUnits": 2,
+    "ItemName": "tofu",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 1580.0,
+    "UnitPrice": "5.29",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 154
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "tomato, whole",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 80.0,
+    "UnitPrice": "6.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 155
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "tomato sauce",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 80.0,
+    "UnitPrice": "8.89",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 156
+},
+{
+  "fields": {
+    "QuantityUnits": 2,
+    "ItemName": "top round beef",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 450.0,
+    "UnitPrice": "5.69",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 157
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "tortillas",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 20.0,
+    "UnitPrice": "4.29",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 158
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "trash bags, small",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 140.0,
+    "UnitPrice": "16.49",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 159
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "trash bags, 55 gal",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 50.0,
+    "UnitPrice": "12.89",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 160
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "turkey burgers",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 12.0,
+    "UnitPrice": "10.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 161
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "whipped cream",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 45.0,
+    "UnitPrice": "7.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 162
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "whisk",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "http://www.amazon.com/Winco-Stainless-Steel-Piano-10-Inch/dp/B001E87S66",
+    "QuantityProvided": 1.0,
+    "UnitPrice": "3.02",
+    "AlreadyHave": 3
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 163
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "wok",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "http://www.amazon.com/Eastman-Outdoors-37206-Outdoor-Gourmet/dp/B0000CAQ0S",
+    "QuantityProvided": 1.0,
+    "UnitPrice": "39.99",
+    "AlreadyHave": 2
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 164
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "wok brush",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "http://www.amazon.com/Town-Service-53180-Asian-Brush/dp/B000VVMJYS",
+    "QuantityProvided": 1.0,
+    "UnitPrice": "10.95",
+    "AlreadyHave": 1
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 165
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "wok implement",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "http://www.amazon.com/Joyce-Chen-33-2015-Burnished-Stir-Fry/dp/B0000VLQDE",
+    "QuantityProvided": 1.0,
+    "UnitPrice": "5.72",
+    "AlreadyHave": 4
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 166
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "worstershire sauce",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 40.0,
+    "UnitPrice": "6.89",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 167
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "yogurt cups, individual",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 24.0,
+    "UnitPrice": "8.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 168
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "veggie burgers",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 12.0,
+    "UnitPrice": "14.79",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 169
+},
+{
+  "fields": {
+    "QuantityUnits": 2,
+    "ItemName": "zucchini",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": null,
+    "QuantityProvided": 450.0,
+    "UnitPrice": "1.00",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 170
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "mixing bowl",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "http://www.amazon.com/Cook-5-Quart-Stainless-Steel-Mixing/dp/B001U0O36G",
+    "QuantityProvided": 1.0,
+    "UnitPrice": "7.16",
+    "AlreadyHave": 8
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 171
+},
+{
+  "fields": {
+    "QuantityUnits": 2,
+    "ItemName": "liquid smoke",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "http://www.amazon.com/Colgin-Liquid-Smoke-16-0-Ounce/dp/B000YOMRA8",
+    "QuantityProvided": 450.0,
+    "UnitPrice": "11.99",
+    "AlreadyHave": 1
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 172
+},
+{
+  "fields": {
+    "QuantityUnits": 2,
+    "ItemName": "salsa",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 450.0,
+    "UnitPrice": "4.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 173
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "guacamole",
+    "PriceUpdatedDate": "2015-06-05",
+    "PurchaseLink": "",
+    "QuantityProvided": 20.0,
+    "UnitPrice": "11.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 174
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "aluminum foil",
+    "PriceUpdatedDate": "2015-06-13",
+    "PurchaseLink": "",
+    "QuantityProvided": 1000.0,
+    "UnitPrice": "22.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 175
+},
+{
+  "fields": {
+    "QuantityUnits": 2,
+    "ItemName": "garlic, minced, in oil",
+    "PriceUpdatedDate": "2015-06-13",
+    "PurchaseLink": "",
+    "QuantityProvided": 1360.0,
+    "UnitPrice": "4.49",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 176
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "granola bars, chocolate chip",
+    "PriceUpdatedDate": "2015-06-13",
+    "PurchaseLink": "",
+    "QuantityProvided": 60.0,
+    "UnitPrice": "8.79",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 177
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "potato salad",
+    "PriceUpdatedDate": "2015-06-13",
+    "PurchaseLink": "",
+    "QuantityProvided": 64.0,
+    "UnitPrice": "8.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 178
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "salsa, fresca",
+    "PriceUpdatedDate": "2015-06-13",
+    "PurchaseLink": "",
+    "QuantityProvided": 30.0,
+    "UnitPrice": "7.79",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 179
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "peas, frozen",
+    "PriceUpdatedDate": "2015-06-13",
+    "PurchaseLink": "",
+    "QuantityProvided": 80.0,
+    "UnitPrice": "6.69",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 180
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "corn, frozen",
+    "PriceUpdatedDate": "2015-06-13",
+    "PurchaseLink": "",
+    "QuantityProvided": 80.0,
+    "UnitPrice": "6.29",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 181
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "napkins",
+    "PriceUpdatedDate": "2015-06-13",
+    "PurchaseLink": "",
+    "QuantityProvided": 1040.0,
+    "UnitPrice": "8.49",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 182
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "plastic wrap",
+    "PriceUpdatedDate": "2015-06-13",
+    "PurchaseLink": "",
+    "QuantityProvided": 3000.0,
+    "UnitPrice": "12.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 183
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "prep table, 4x2",
+    "PriceUpdatedDate": "2015-06-13",
+    "PurchaseLink": "",
+    "QuantityProvided": 1.0,
+    "UnitPrice": "40.00",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 184
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "watermelon",
+    "PriceUpdatedDate": "2015-06-13",
+    "PurchaseLink": "",
+    "QuantityProvided": 1.0,
+    "UnitPrice": "5.00",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 185
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "water, bottled",
+    "PriceUpdatedDate": "2015-06-13",
+    "PurchaseLink": "",
+    "QuantityProvided": 40.0,
+    "UnitPrice": "3.39",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 186
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "condiment pack, k/m/r",
+    "PriceUpdatedDate": "2015-06-13",
+    "PurchaseLink": "",
+    "QuantityProvided": 1.0,
+    "UnitPrice": "8.69",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 187
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "chafing dish",
+    "PriceUpdatedDate": "2015-06-13",
+    "PurchaseLink": "",
+    "QuantityProvided": 1.0,
+    "UnitPrice": "2.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 188
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "sponges",
+    "PriceUpdatedDate": "2015-06-13",
+    "PurchaseLink": "",
+    "QuantityProvided": 18.0,
+    "UnitPrice": "11.49",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 189
+},
+{
+  "fields": {
+    "QuantityUnits": 3,
+    "ItemName": "clorox wipes",
+    "PriceUpdatedDate": "2015-06-13",
+    "PurchaseLink": "",
+    "QuantityProvided": 480.0,
+    "UnitPrice": "12.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 190
+},
+{
+  "fields": {
+    "QuantityUnits": 1,
+    "ItemName": "dish soap",
+    "PriceUpdatedDate": "2015-06-13",
+    "PurchaseLink": "",
+    "QuantityProvided": 135.0,
+    "UnitPrice": "8.89",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 191
+},
+{
+  "fields": {
+    "QuantityUnits": 2,
+    "ItemName": "cashews",
+    "PriceUpdatedDate": "2015-06-13",
+    "PurchaseLink": "",
+    "QuantityProvided": 1134.0,
+    "UnitPrice": "15.49",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 192
+},
+{
+  "fields": {
+    "QuantityUnits": 2,
+    "ItemName": "leeks",
+    "PriceUpdatedDate": "2015-06-15",
+    "PurchaseLink": "",
+    "QuantityProvided": 150.0,
+    "UnitPrice": "1.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 193
+},
+{
+  "fields": {
+    "QuantityUnits": 2,
+    "ItemName": "scallions",
+    "PriceUpdatedDate": "2015-06-15",
+    "PurchaseLink": "",
+    "QuantityProvided": 80.0,
+    "UnitPrice": "0.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 194
+},
+{
+  "fields": {
+    "QuantityUnits": 2,
+    "ItemName": "kung pao marinade",
+    "PriceUpdatedDate": "2015-06-15",
+    "PurchaseLink": "",
+    "QuantityProvided": 54.3,
+    "UnitPrice": "0.00",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 195
+},
+{
+  "fields": {
+    "QuantityUnits": 2,
+    "ItemName": "kung pao sauce",
+    "PriceUpdatedDate": "2015-06-15",
+    "PurchaseLink": "",
+    "QuantityProvided": 310.2,
+    "UnitPrice": "0.00",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 196
+},
+{
+  "fields": {
+    "QuantityUnits": 2,
+    "ItemName": "shao zheng wine",
+    "PriceUpdatedDate": "2015-06-15",
+    "PurchaseLink": "",
+    "QuantityProvided": 750.0,
+    "UnitPrice": "3.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 197
+},
+{
+  "fields": {
+    "QuantityUnits": 2,
+    "ItemName": "corn starch",
+    "PriceUpdatedDate": "2015-06-15",
+    "PurchaseLink": "",
+    "QuantityProvided": 450.0,
+    "UnitPrice": "1.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 198
+},
+{
+  "fields": {
+    "QuantityUnits": 2,
+    "ItemName": "sherry, dry",
+    "PriceUpdatedDate": "2015-06-15",
+    "PurchaseLink": "",
+    "QuantityProvided": 750.0,
+    "UnitPrice": "11.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 199
+},
+{
+  "fields": {
+    "QuantityUnits": 2,
+    "ItemName": "citric acid",
+    "PriceUpdatedDate": "2015-06-15",
+    "PurchaseLink": "B00EYFKNL8",
+    "QuantityProvided": 2250.0,
+    "UnitPrice": "18.99",
+    "AlreadyHave": 1
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 200
+},
+{
+  "fields": {
+    "QuantityUnits": 2,
+    "ItemName": "black bean paste",
+    "PriceUpdatedDate": "2015-06-15",
+    "PurchaseLink": "",
+    "QuantityProvided": 250.0,
+    "UnitPrice": "2.99",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 201
+},
+{
+  "fields": {
+    "QuantityUnits": 2,
+    "ItemName": "sichuan peppercorns",
+    "PriceUpdatedDate": "2015-06-15",
+    "PurchaseLink": "",
+    "QuantityProvided": 225.0,
+    "UnitPrice": "9.40",
+    "AlreadyHave": 0
+  },
+  "model": "calcs.purchaseableitem",
+  "pk": 202
 }
 ]

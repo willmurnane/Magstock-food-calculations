@@ -1,177 +1,177 @@
 [
 {
-  "pk": 1,
-  "model": "calcs.meal",
   "fields": {
     "Name": "Common"
-  }
+  },
+  "pk": 1,
+  "model": "calcs.meal"
 },
 {
-  "pk": 2,
-  "model": "calcs.meal",
   "fields": {
     "Name": "Eggs + sausage + hashbrowns"
-  }
+  },
+  "pk": 2,
+  "model": "calcs.meal"
 },
 {
-  "pk": 3,
-  "model": "calcs.meal",
   "fields": {
     "Name": "Pancakes"
-  }
+  },
+  "pk": 3,
+  "model": "calcs.meal"
 },
 {
-  "pk": 4,
-  "model": "calcs.meal",
   "fields": {
     "Name": "Bagels/muffins"
-  }
+  },
+  "pk": 4,
+  "model": "calcs.meal"
 },
 {
-  "pk": 5,
-  "model": "calcs.meal",
   "fields": {
     "Name": "Grill"
-  }
+  },
+  "pk": 5,
+  "model": "calcs.meal"
 },
 {
-  "pk": 6,
-  "model": "calcs.meal",
   "fields": {
     "Name": "Mexican"
-  }
+  },
+  "pk": 6,
+  "model": "calcs.meal"
 },
 {
-  "pk": 7,
-  "model": "calcs.meal",
   "fields": {
     "Name": "Kung Pao chicken"
-  }
+  },
+  "pk": 7,
+  "model": "calcs.meal"
 },
 {
-  "pk": 8,
-  "model": "calcs.meal",
   "fields": {
     "Name": "Kung Pao tofu"
-  }
+  },
+  "pk": 8,
+  "model": "calcs.meal"
 },
 {
-  "pk": 9,
-  "model": "calcs.meal",
   "fields": {
     "Name": "Every breakfast"
-  }
+  },
+  "pk": 9,
+  "model": "calcs.meal"
 },
 {
-  "pk": 10,
-  "model": "calcs.meal",
   "fields": {
     "Name": "Sammich"
-  }
+  },
+  "pk": 10,
+  "model": "calcs.meal"
 },
 {
-  "pk": 11,
-  "model": "calcs.meal",
   "fields": {
     "Name": "Lasagna"
-  }
+  },
+  "pk": 11,
+  "model": "calcs.meal"
 },
 {
-  "pk": 12,
-  "model": "calcs.meal",
   "fields": {
     "Name": "Mac + Cheese"
-  }
+  },
+  "pk": 12,
+  "model": "calcs.meal"
 },
 {
-  "pk": 13,
-  "model": "calcs.meal",
   "fields": {
     "Name": "Meatloaf"
-  }
+  },
+  "pk": 13,
+  "model": "calcs.meal"
 },
 {
-  "pk": 14,
-  "model": "calcs.meal",
   "fields": {
     "Name": "Weenie Roast"
-  }
+  },
+  "pk": 14,
+  "model": "calcs.meal"
 },
 {
-  "pk": 15,
-  "model": "calcs.meal",
   "fields": {
     "Name": "S'mores"
-  }
+  },
+  "pk": 15,
+  "model": "calcs.meal"
 },
 {
-  "pk": 16,
-  "model": "calcs.meal",
   "fields": {
     "Name": "Spaghetti"
-  }
+  },
+  "pk": 16,
+  "model": "calcs.meal"
 },
 {
-  "pk": 17,
-  "model": "calcs.meal",
   "fields": {
     "Name": "Roast Beef"
-  }
+  },
+  "pk": 17,
+  "model": "calcs.meal"
 },
 {
-  "pk": 18,
-  "model": "calcs.meal",
   "fields": {
     "Name": "Fried Rice"
-  }
+  },
+  "pk": 18,
+  "model": "calcs.meal"
 },
 {
-  "pk": 19,
-  "model": "calcs.meal",
   "fields": {
     "Name": "Asian a la carte"
-  }
+  },
+  "pk": 19,
+  "model": "calcs.meal"
 },
 {
-  "pk": 20,
-  "model": "calcs.meal",
   "fields": {
     "Name": "Chicken teriyaki"
-  }
+  },
+  "pk": 20,
+  "model": "calcs.meal"
 },
 {
-  "pk": 21,
-  "model": "calcs.meal",
   "fields": {
     "Name": "Frozen finger foods"
-  }
+  },
+  "pk": 21,
+  "model": "calcs.meal"
 },
 {
-  "pk": 22,
-  "model": "calcs.meal",
   "fields": {
     "Name": "Chili"
-  }
+  },
+  "pk": 22,
+  "model": "calcs.meal"
 },
 {
-  "pk": 23,
-  "model": "calcs.meal",
   "fields": {
     "Name": "Veggie Chili"
-  }
+  },
+  "pk": 23,
+  "model": "calcs.meal"
 },
 {
-  "pk": 24,
-  "model": "calcs.meal",
   "fields": {
     "Name": "kung pao marinade"
-  }
+  },
+  "pk": 24,
+  "model": "calcs.meal"
 },
 {
-  "pk": 25,
-  "model": "calcs.meal",
   "fields": {
     "Name": "kung pao sauce"
-  }
+  },
+  "pk": 25,
+  "model": "calcs.meal"
 }
 ]
