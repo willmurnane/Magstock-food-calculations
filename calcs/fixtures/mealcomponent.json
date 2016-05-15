@@ -3,9 +3,9 @@
   "model": "calcs.mealcomponent",
   "pk": 1,
   "fields": {
-    "AmountPerPerson": 2.0,
     "Meal": 2,
     "Ingredient": 49,
+    "AmountPerPerson": 2.0,
     "AmountForGroup": 0.0
   }
 },
@@ -13,9 +13,9 @@
   "model": "calcs.mealcomponent",
   "pk": 2,
   "fields": {
-    "AmountPerPerson": 2.5,
     "Meal": 2,
     "Ingredient": 129,
+    "AmountPerPerson": 2.5,
     "AmountForGroup": 0.0
   }
 },
@@ -23,9 +23,9 @@
   "model": "calcs.mealcomponent",
   "pk": 3,
   "fields": {
-    "AmountPerPerson": 0.2,
     "Meal": 3,
     "Ingredient": 49,
+    "AmountPerPerson": 0.2,
     "AmountForGroup": 0.0
   }
 },
@@ -33,9 +33,9 @@
   "model": "calcs.mealcomponent",
   "pk": 4,
   "fields": {
-    "AmountPerPerson": 1.0,
     "Meal": 18,
     "Ingredient": 49,
+    "AmountPerPerson": 1.0,
     "AmountForGroup": 0.0
   }
 },
@@ -43,9 +43,9 @@
   "model": "calcs.mealcomponent",
   "pk": 5,
   "fields": {
-    "AmountPerPerson": 0.2,
     "Meal": 1,
     "Ingredient": 147,
+    "AmountPerPerson": 0.2,
     "AmountForGroup": 0.0
   }
 },
@@ -53,9 +53,9 @@
   "model": "calcs.mealcomponent",
   "pk": 6,
   "fields": {
-    "AmountPerPerson": 0.0,
     "Meal": 1,
     "Ingredient": 4,
+    "AmountPerPerson": 0.0,
     "AmountForGroup": 40.0
   }
 },
@@ -63,9 +63,9 @@
   "model": "calcs.mealcomponent",
   "pk": 7,
   "fields": {
-    "AmountPerPerson": 0.1,
     "Meal": 1,
     "Ingredient": 160,
+    "AmountPerPerson": 0.1,
     "AmountForGroup": 0.0
   }
 },
@@ -73,9 +73,9 @@
   "model": "calcs.mealcomponent",
   "pk": 8,
   "fields": {
-    "AmountPerPerson": 0.0,
     "Meal": 1,
     "Ingredient": 143,
+    "AmountPerPerson": 0.0,
     "AmountForGroup": 1.0
   }
 },
@@ -83,9 +83,9 @@
   "model": "calcs.mealcomponent",
   "pk": 9,
   "fields": {
-    "AmountPerPerson": 0.0,
     "Meal": 1,
     "Ingredient": 90,
+    "AmountPerPerson": 0.0,
     "AmountForGroup": 4.0
   }
 },
@@ -93,9 +93,9 @@
   "model": "calcs.mealcomponent",
   "pk": 10,
   "fields": {
-    "AmountPerPerson": 0.0,
     "Meal": 1,
     "Ingredient": 119,
+    "AmountPerPerson": 0.0,
     "AmountForGroup": 2.0
   }
 },
@@ -103,9 +103,9 @@
   "model": "calcs.mealcomponent",
   "pk": 11,
   "fields": {
-    "AmountPerPerson": 0.0,
     "Meal": 1,
     "Ingredient": 120,
+    "AmountPerPerson": 0.0,
     "AmountForGroup": 2.0
   }
 },
@@ -113,9 +113,9 @@
   "model": "calcs.mealcomponent",
   "pk": 12,
   "fields": {
-    "AmountPerPerson": 0.0,
     "Meal": 1,
     "Ingredient": 165,
+    "AmountPerPerson": 0.0,
     "AmountForGroup": 1.0
   }
 },
@@ -123,9 +123,9 @@
   "model": "calcs.mealcomponent",
   "pk": 13,
   "fields": {
-    "AmountPerPerson": 0.0,
     "Meal": 1,
     "Ingredient": 135,
+    "AmountPerPerson": 0.0,
     "AmountForGroup": 12.0
   }
 },
@@ -133,9 +133,9 @@
   "model": "calcs.mealcomponent",
   "pk": 14,
   "fields": {
-    "AmountPerPerson": 0.1,
     "Meal": 1,
     "Ingredient": 128,
+    "AmountPerPerson": 0.1,
     "AmountForGroup": 0.0
   }
 },
@@ -143,9 +143,9 @@
   "model": "calcs.mealcomponent",
   "pk": 15,
   "fields": {
-    "AmountPerPerson": 0.1,
     "Meal": 1,
     "Ingredient": 110,
+    "AmountPerPerson": 0.1,
     "AmountForGroup": 0.0
   }
 },
@@ -153,9 +153,9 @@
   "model": "calcs.mealcomponent",
   "pk": 16,
   "fields": {
-    "AmountPerPerson": 0.0,
     "Meal": 1,
     "Ingredient": 131,
+    "AmountPerPerson": 0.0,
     "AmountForGroup": 2.0
   }
 },
@@ -163,9 +163,9 @@
   "model": "calcs.mealcomponent",
   "pk": 17,
   "fields": {
-    "AmountPerPerson": 0.0,
     "Meal": 1,
     "Ingredient": 153,
+    "AmountPerPerson": 0.0,
     "AmountForGroup": 1.0
   }
 },
@@ -173,9 +173,9 @@
   "model": "calcs.mealcomponent",
   "pk": 18,
   "fields": {
-    "AmountPerPerson": 0.0,
     "Meal": 1,
     "Ingredient": 87,
+    "AmountPerPerson": 0.0,
     "AmountForGroup": 1.0
   }
 },
@@ -183,9 +183,9 @@
   "model": "calcs.mealcomponent",
   "pk": 19,
   "fields": {
-    "AmountPerPerson": 0.0,
     "Meal": 1,
     "Ingredient": 132,
+    "AmountPerPerson": 0.0,
     "AmountForGroup": 2.0
   }
 },
@@ -193,9 +193,9 @@
   "model": "calcs.mealcomponent",
   "pk": 20,
   "fields": {
-    "AmountPerPerson": 0.0,
     "Meal": 1,
     "Ingredient": 27,
+    "AmountPerPerson": 0.0,
     "AmountForGroup": 2.0
   }
 },
@@ -203,9 +203,9 @@
   "model": "calcs.mealcomponent",
   "pk": 21,
   "fields": {
-    "AmountPerPerson": 0.07,
     "Meal": 1,
     "Ingredient": 106,
+    "AmountPerPerson": 0.07,
     "AmountForGroup": 0.0
   }
 },
@@ -213,9 +213,9 @@
   "model": "calcs.mealcomponent",
   "pk": 22,
   "fields": {
-    "AmountPerPerson": 0.0,
     "Meal": 1,
     "Ingredient": 74,
+    "AmountPerPerson": 0.0,
     "AmountForGroup": 3.0
   }
 },
@@ -223,9 +223,9 @@
   "model": "calcs.mealcomponent",
   "pk": 23,
   "fields": {
-    "AmountPerPerson": 0.0,
     "Meal": 2,
     "Ingredient": 164,
+    "AmountPerPerson": 0.0,
     "AmountForGroup": 1.0
   }
 },
@@ -233,9 +233,9 @@
   "model": "calcs.mealcomponent",
   "pk": 24,
   "fields": {
-    "AmountPerPerson": 0.0,
     "Meal": 2,
     "Ingredient": 171,
+    "AmountPerPerson": 0.0,
     "AmountForGroup": 2.0
   }
 },
@@ -243,9 +243,9 @@
   "model": "calcs.mealcomponent",
   "pk": 25,
   "fields": {
-    "AmountPerPerson": 0.0,
     "Meal": 2,
     "Ingredient": 166,
+    "AmountPerPerson": 0.0,
     "AmountForGroup": 1.0
   }
 },
@@ -253,9 +253,9 @@
   "model": "calcs.mealcomponent",
   "pk": 26,
   "fields": {
-    "AmountPerPerson": 0.0,
     "Meal": 2,
     "Ingredient": 94,
+    "AmountPerPerson": 0.0,
     "AmountForGroup": 2.0
   }
 },
@@ -263,9 +263,9 @@
   "model": "calcs.mealcomponent",
   "pk": 27,
   "fields": {
-    "AmountPerPerson": 0.0,
     "Meal": 2,
     "Ingredient": 78,
+    "AmountPerPerson": 0.0,
     "AmountForGroup": 4.0
   }
 },
@@ -273,9 +273,9 @@
   "model": "calcs.mealcomponent",
   "pk": 28,
   "fields": {
-    "AmountPerPerson": 0.0,
     "Meal": 2,
     "Ingredient": 119,
+    "AmountPerPerson": 0.0,
     "AmountForGroup": 1.0
   }
 },
@@ -283,9 +283,9 @@
   "model": "calcs.mealcomponent",
   "pk": 29,
   "fields": {
-    "AmountPerPerson": 0.0,
     "Meal": 2,
     "Ingredient": 90,
+    "AmountPerPerson": 0.0,
     "AmountForGroup": 2.0
   }
 },
@@ -293,9 +293,9 @@
   "model": "calcs.mealcomponent",
   "pk": 30,
   "fields": {
-    "AmountPerPerson": 0.0,
     "Meal": 3,
     "Ingredient": 171,
+    "AmountPerPerson": 0.0,
     "AmountForGroup": 3.0
   }
 },
@@ -303,9 +303,9 @@
   "model": "calcs.mealcomponent",
   "pk": 31,
   "fields": {
-    "AmountPerPerson": 0.2,
     "Meal": 3,
     "Ingredient": 109,
+    "AmountPerPerson": 0.2,
     "AmountForGroup": 0.0
   }
 },
@@ -313,9 +313,9 @@
   "model": "calcs.mealcomponent",
   "pk": 32,
   "fields": {
-    "AmountPerPerson": 0.0,
     "Meal": 3,
     "Ingredient": 94,
+    "AmountPerPerson": 0.0,
     "AmountForGroup": 2.0
   }
 },
@@ -323,9 +323,9 @@
   "model": "calcs.mealcomponent",
   "pk": 33,
   "fields": {
-    "AmountPerPerson": 0.0,
     "Meal": 3,
     "Ingredient": 171,
+    "AmountPerPerson": 0.0,
     "AmountForGroup": 3.0
   }
 },
@@ -333,9 +333,9 @@
   "model": "calcs.mealcomponent",
   "pk": 34,
   "fields": {
-    "AmountPerPerson": 0.0,
     "Meal": 3,
     "Ingredient": 163,
+    "AmountPerPerson": 0.0,
     "AmountForGroup": 3.0
   }
 },
@@ -343,9 +343,9 @@
   "model": "calcs.mealcomponent",
   "pk": 35,
   "fields": {
-    "AmountPerPerson": 0.0,
     "Meal": 3,
     "Ingredient": 78,
+    "AmountPerPerson": 0.0,
     "AmountForGroup": 2.0
   }
 },
@@ -353,9 +353,9 @@
   "model": "calcs.mealcomponent",
   "pk": 36,
   "fields": {
-    "AmountPerPerson": 150.0,
     "Meal": 2,
     "Ingredient": 117,
+    "AmountPerPerson": 150.0,
     "AmountForGroup": 0.0
   }
 },
@@ -363,9 +363,9 @@
   "model": "calcs.mealcomponent",
   "pk": 37,
   "fields": {
-    "AmountPerPerson": 0.1,
     "Meal": 2,
     "Ingredient": 133,
+    "AmountPerPerson": 0.1,
     "AmountForGroup": 0.0
   }
 },
@@ -373,9 +373,9 @@
   "model": "calcs.mealcomponent",
   "pk": 38,
   "fields": {
-    "AmountPerPerson": 0.03,
     "Meal": 2,
     "Ingredient": 110,
+    "AmountPerPerson": 0.03,
     "AmountForGroup": 0.0
   }
 },
@@ -383,9 +383,9 @@
   "model": "calcs.mealcomponent",
   "pk": 39,
   "fields": {
-    "AmountPerPerson": 0.3,
     "Meal": 2,
     "Ingredient": 85,
+    "AmountPerPerson": 0.3,
     "AmountForGroup": 0.0
   }
 },
@@ -393,9 +393,9 @@
   "model": "calcs.mealcomponent",
   "pk": 40,
   "fields": {
-    "AmountPerPerson": 0.1,
     "Meal": 2,
     "Ingredient": 79,
+    "AmountPerPerson": 0.1,
     "AmountForGroup": 0.0
   }
 },
@@ -403,9 +403,9 @@
   "model": "calcs.mealcomponent",
   "pk": 41,
   "fields": {
-    "AmountPerPerson": 1.0,
     "Meal": 3,
     "Ingredient": 25,
+    "AmountPerPerson": 1.0,
     "AmountForGroup": 0.0
   }
 },
@@ -413,9 +413,9 @@
   "model": "calcs.mealcomponent",
   "pk": 42,
   "fields": {
-    "AmountPerPerson": 30.0,
     "Meal": 3,
     "Ingredient": 148,
+    "AmountPerPerson": 30.0,
     "AmountForGroup": 0.0
   }
 },
@@ -423,9 +423,9 @@
   "model": "calcs.mealcomponent",
   "pk": 43,
   "fields": {
-    "AmountPerPerson": 1.0,
     "Meal": 3,
     "Ingredient": 53,
+    "AmountPerPerson": 1.0,
     "AmountForGroup": 0.0
   }
 },
@@ -433,9 +433,9 @@
   "model": "calcs.mealcomponent",
   "pk": 44,
   "fields": {
-    "AmountPerPerson": 2.0,
     "Meal": 3,
     "Ingredient": 95,
+    "AmountPerPerson": 2.0,
     "AmountForGroup": 0.0
   }
 },
@@ -443,9 +443,9 @@
   "model": "calcs.mealcomponent",
   "pk": 45,
   "fields": {
-    "AmountPerPerson": 0.05,
     "Meal": 3,
     "Ingredient": 11,
+    "AmountPerPerson": 0.05,
     "AmountForGroup": 0.0
   }
 },
@@ -453,9 +453,9 @@
   "model": "calcs.mealcomponent",
   "pk": 46,
   "fields": {
-    "AmountPerPerson": 0.5,
     "Meal": 3,
     "Ingredient": 39,
+    "AmountPerPerson": 0.5,
     "AmountForGroup": 0.0
   }
 },
@@ -463,9 +463,9 @@
   "model": "calcs.mealcomponent",
   "pk": 47,
   "fields": {
-    "AmountPerPerson": 0.5,
     "Meal": 3,
     "Ingredient": 18,
+    "AmountPerPerson": 0.5,
     "AmountForGroup": 0.0
   }
 },
@@ -473,9 +473,9 @@
   "model": "calcs.mealcomponent",
   "pk": 48,
   "fields": {
-    "AmountPerPerson": 0.25,
     "Meal": 3,
     "Ingredient": 12,
+    "AmountPerPerson": 0.25,
     "AmountForGroup": 0.0
   }
 },
@@ -483,9 +483,9 @@
   "model": "calcs.mealcomponent",
   "pk": 49,
   "fields": {
-    "AmountPerPerson": 0.05,
     "Meal": 3,
     "Ingredient": 40,
+    "AmountPerPerson": 0.05,
     "AmountForGroup": 0.0
   }
 },
@@ -493,9 +493,9 @@
   "model": "calcs.mealcomponent",
   "pk": 50,
   "fields": {
-    "AmountPerPerson": 0.03,
     "Meal": 3,
     "Ingredient": 99,
+    "AmountPerPerson": 0.03,
     "AmountForGroup": 0.0
   }
 },
@@ -503,9 +503,9 @@
   "model": "calcs.mealcomponent",
   "pk": 51,
   "fields": {
-    "AmountPerPerson": 0.5,
     "Meal": 3,
     "Ingredient": 118,
+    "AmountPerPerson": 0.5,
     "AmountForGroup": 0.0
   }
 },
@@ -513,9 +513,9 @@
   "model": "calcs.mealcomponent",
   "pk": 52,
   "fields": {
-    "AmountPerPerson": 0.25,
     "Meal": 3,
     "Ingredient": 91,
+    "AmountPerPerson": 0.25,
     "AmountForGroup": 0.0
   }
 },
@@ -523,9 +523,9 @@
   "model": "calcs.mealcomponent",
   "pk": 53,
   "fields": {
-    "AmountPerPerson": 1.0,
     "Meal": 3,
     "Ingredient": 2,
+    "AmountPerPerson": 1.0,
     "AmountForGroup": 0.0
   }
 },
@@ -533,9 +533,9 @@
   "model": "calcs.mealcomponent",
   "pk": 54,
   "fields": {
-    "AmountPerPerson": 0.3,
     "Meal": 3,
     "Ingredient": 162,
+    "AmountPerPerson": 0.3,
     "AmountForGroup": 0.0
   }
 },
@@ -543,9 +543,9 @@
   "model": "calcs.mealcomponent",
   "pk": 55,
   "fields": {
-    "AmountPerPerson": 0.5,
     "Meal": 4,
     "Ingredient": 97,
+    "AmountPerPerson": 0.5,
     "AmountForGroup": 0.0
   }
 },
@@ -553,9 +553,9 @@
   "model": "calcs.mealcomponent",
   "pk": 56,
   "fields": {
-    "AmountPerPerson": 0.25,
     "Meal": 4,
     "Ingredient": 47,
+    "AmountPerPerson": 0.25,
     "AmountForGroup": 0.0
   }
 },
@@ -563,9 +563,9 @@
   "model": "calcs.mealcomponent",
   "pk": 57,
   "fields": {
-    "AmountPerPerson": 1.0,
     "Meal": 4,
     "Ingredient": 100,
+    "AmountPerPerson": 1.0,
     "AmountForGroup": 0.0
   }
 },
@@ -573,9 +573,9 @@
   "model": "calcs.mealcomponent",
   "pk": 58,
   "fields": {
-    "AmountPerPerson": 0.5,
     "Meal": 4,
     "Ingredient": 66,
+    "AmountPerPerson": 0.5,
     "AmountForGroup": 0.0
   }
 },
@@ -583,9 +583,9 @@
   "model": "calcs.mealcomponent",
   "pk": 59,
   "fields": {
-    "AmountPerPerson": 0.2,
     "Meal": 4,
     "Ingredient": 168,
+    "AmountPerPerson": 0.2,
     "AmountForGroup": 0.0
   }
 },
@@ -593,9 +593,9 @@
   "model": "calcs.mealcomponent",
   "pk": 60,
   "fields": {
-    "AmountPerPerson": 2.0,
     "Meal": 4,
     "Ingredient": 95,
+    "AmountPerPerson": 2.0,
     "AmountForGroup": 0.0
   }
 },
@@ -603,9 +603,9 @@
   "model": "calcs.mealcomponent",
   "pk": 61,
   "fields": {
-    "AmountPerPerson": 0.1,
     "Meal": 4,
     "Ingredient": 24,
+    "AmountPerPerson": 0.1,
     "AmountForGroup": 0.0
   }
 },
@@ -613,9 +613,9 @@
   "model": "calcs.mealcomponent",
   "pk": 62,
   "fields": {
-    "AmountPerPerson": 0.1,
     "Meal": 4,
     "Ingredient": 121,
+    "AmountPerPerson": 0.1,
     "AmountForGroup": 0.0
   }
 },
@@ -623,9 +623,9 @@
   "model": "calcs.mealcomponent",
   "pk": 63,
   "fields": {
-    "AmountPerPerson": 0.3,
     "Meal": 5,
     "Ingredient": 77,
+    "AmountPerPerson": 0.3,
     "AmountForGroup": 0.0
   }
 },
@@ -633,9 +633,9 @@
   "model": "calcs.mealcomponent",
   "pk": 64,
   "fields": {
-    "AmountPerPerson": 0.3,
     "Meal": 5,
     "Ingredient": 59,
+    "AmountPerPerson": 0.3,
     "AmountForGroup": 0.0
   }
 },
@@ -643,9 +643,9 @@
   "model": "calcs.mealcomponent",
   "pk": 65,
   "fields": {
-    "AmountPerPerson": 0.5,
     "Meal": 5,
     "Ingredient": 20,
+    "AmountPerPerson": 0.5,
     "AmountForGroup": 0.0
   }
 },
@@ -653,9 +653,9 @@
   "model": "calcs.mealcomponent",
   "pk": 66,
   "fields": {
-    "AmountPerPerson": 0.2,
     "Meal": 5,
     "Ingredient": 169,
+    "AmountPerPerson": 0.2,
     "AmountForGroup": 0.0
   }
 },
@@ -663,9 +663,9 @@
   "model": "calcs.mealcomponent",
   "pk": 67,
   "fields": {
-    "AmountPerPerson": 0.7,
     "Meal": 5,
     "Ingredient": 76,
+    "AmountPerPerson": 0.7,
     "AmountForGroup": 0.0
   }
 },
@@ -673,9 +673,9 @@
   "model": "calcs.mealcomponent",
   "pk": 68,
   "fields": {
-    "AmountPerPerson": 0.5,
     "Meal": 5,
     "Ingredient": 73,
+    "AmountPerPerson": 0.5,
     "AmountForGroup": 0.0
   }
 },
@@ -683,9 +683,9 @@
   "model": "calcs.mealcomponent",
   "pk": 69,
   "fields": {
-    "AmountPerPerson": 0.2,
     "Meal": 5,
     "Ingredient": 85,
+    "AmountPerPerson": 0.2,
     "AmountForGroup": 0.0
   }
 },
@@ -693,9 +693,9 @@
   "model": "calcs.mealcomponent",
   "pk": 70,
   "fields": {
-    "AmountPerPerson": 0.3,
     "Meal": 5,
     "Ingredient": 98,
+    "AmountPerPerson": 0.3,
     "AmountForGroup": 0.0
   }
 },
@@ -703,9 +703,9 @@
   "model": "calcs.mealcomponent",
   "pk": 71,
   "fields": {
-    "AmountPerPerson": 0.2,
     "Meal": 5,
     "Ingredient": 111,
+    "AmountPerPerson": 0.2,
     "AmountForGroup": 0.0
   }
 },
@@ -713,9 +713,9 @@
   "model": "calcs.mealcomponent",
   "pk": 72,
   "fields": {
-    "AmountPerPerson": 1.0,
     "Meal": 5,
     "Ingredient": 6,
+    "AmountPerPerson": 1.0,
     "AmountForGroup": 0.0
   }
 },
@@ -723,9 +723,9 @@
   "model": "calcs.mealcomponent",
   "pk": 73,
   "fields": {
-    "AmountPerPerson": 0.2,
     "Meal": 5,
     "Ingredient": 125,
+    "AmountPerPerson": 0.2,
     "AmountForGroup": 0.0
   }
 },
@@ -733,9 +733,9 @@
   "model": "calcs.mealcomponent",
   "pk": 74,
   "fields": {
-    "AmountPerPerson": 0.1,
     "Meal": 5,
     "Ingredient": 155,
+    "AmountPerPerson": 0.1,
     "AmountForGroup": 0.0
   }
 },
@@ -743,9 +743,9 @@
   "model": "calcs.mealcomponent",
   "pk": 75,
   "fields": {
-    "AmountPerPerson": 0.1,
     "Meal": 5,
     "Ingredient": 102,
+    "AmountPerPerson": 0.1,
     "AmountForGroup": 0.0
   }
 },
@@ -753,9 +753,9 @@
   "model": "calcs.mealcomponent",
   "pk": 76,
   "fields": {
-    "AmountPerPerson": 0.1,
     "Meal": 5,
     "Ingredient": 124,
+    "AmountPerPerson": 0.1,
     "AmountForGroup": 0.0
   }
 },
@@ -763,9 +763,9 @@
   "model": "calcs.mealcomponent",
   "pk": 77,
   "fields": {
-    "AmountPerPerson": 0.2,
     "Meal": 5,
     "Ingredient": 13,
+    "AmountPerPerson": 0.2,
     "AmountForGroup": 0.0
   }
 },
@@ -773,9 +773,9 @@
   "model": "calcs.mealcomponent",
   "pk": 78,
   "fields": {
-    "AmountPerPerson": 2.0,
     "Meal": 10,
     "Ingredient": 21,
+    "AmountPerPerson": 2.0,
     "AmountForGroup": 0.0
   }
 },
@@ -783,9 +783,9 @@
   "model": "calcs.mealcomponent",
   "pk": 79,
   "fields": {
-    "AmountPerPerson": 1.5,
     "Meal": 10,
     "Ingredient": 108,
+    "AmountPerPerson": 1.5,
     "AmountForGroup": 0.0
   }
 },
@@ -793,9 +793,9 @@
   "model": "calcs.mealcomponent",
   "pk": 80,
   "fields": {
-    "AmountPerPerson": 0.5,
     "Meal": 10,
     "Ingredient": 67,
+    "AmountPerPerson": 0.5,
     "AmountForGroup": 0.0
   }
 },
@@ -803,9 +803,9 @@
   "model": "calcs.mealcomponent",
   "pk": 81,
   "fields": {
-    "AmountPerPerson": 0.5,
     "Meal": 10,
     "Ingredient": 146,
+    "AmountPerPerson": 0.5,
     "AmountForGroup": 0.0
   }
 },
@@ -813,9 +813,9 @@
   "model": "calcs.mealcomponent",
   "pk": 82,
   "fields": {
-    "AmountPerPerson": 8.0,
     "Meal": 11,
     "Ingredient": 60,
+    "AmountPerPerson": 8.0,
     "AmountForGroup": 0.0
   }
 },
@@ -823,9 +823,9 @@
   "model": "calcs.mealcomponent",
   "pk": 83,
   "fields": {
-    "AmountPerPerson": 2.0,
     "Meal": 11,
     "Ingredient": 125,
+    "AmountPerPerson": 2.0,
     "AmountForGroup": 0.0
   }
 },
@@ -833,9 +833,9 @@
   "model": "calcs.mealcomponent",
   "pk": 84,
   "fields": {
-    "AmountPerPerson": 0.5,
     "Meal": 11,
     "Ingredient": 107,
+    "AmountPerPerson": 0.5,
     "AmountForGroup": 0.0
   }
 },
@@ -843,9 +843,9 @@
   "model": "calcs.mealcomponent",
   "pk": 85,
   "fields": {
-    "AmountPerPerson": 0.2,
     "Meal": 11,
     "Ingredient": 45,
+    "AmountPerPerson": 0.2,
     "AmountForGroup": 0.0
   }
 },
@@ -853,9 +853,9 @@
   "model": "calcs.mealcomponent",
   "pk": 86,
   "fields": {
-    "AmountPerPerson": 0.5,
     "Meal": 11,
     "Ingredient": 26,
+    "AmountPerPerson": 0.5,
     "AmountForGroup": 0.0
   }
 },
@@ -863,9 +863,9 @@
   "model": "calcs.mealcomponent",
   "pk": 87,
   "fields": {
-    "AmountPerPerson": 0.5,
     "Meal": 11,
     "Ingredient": 81,
+    "AmountPerPerson": 0.5,
     "AmountForGroup": 0.0
   }
 },
@@ -873,9 +873,9 @@
   "model": "calcs.mealcomponent",
   "pk": 88,
   "fields": {
-    "AmountPerPerson": 0.2,
     "Meal": 11,
     "Ingredient": 55,
+    "AmountPerPerson": 0.2,
     "AmountForGroup": 0.0
   }
 },
@@ -883,9 +883,9 @@
   "model": "calcs.mealcomponent",
   "pk": 89,
   "fields": {
-    "AmountPerPerson": 0.2,
     "Meal": 11,
     "Ingredient": 63,
+    "AmountPerPerson": 0.2,
     "AmountForGroup": 0.0
   }
 },
@@ -893,9 +893,9 @@
   "model": "calcs.mealcomponent",
   "pk": 90,
   "fields": {
-    "AmountPerPerson": 4.0,
     "Meal": 12,
     "Ingredient": 51,
+    "AmountPerPerson": 4.0,
     "AmountForGroup": 0.0
   }
 },
@@ -903,9 +903,9 @@
   "model": "calcs.mealcomponent",
   "pk": 91,
   "fields": {
-    "AmountPerPerson": 3.0,
     "Meal": 12,
     "Ingredient": 95,
+    "AmountPerPerson": 3.0,
     "AmountForGroup": 0.0
   }
 },
@@ -913,9 +913,9 @@
   "model": "calcs.mealcomponent",
   "pk": 92,
   "fields": {
-    "AmountPerPerson": 0.3,
     "Meal": 12,
     "Ingredient": 53,
+    "AmountPerPerson": 0.3,
     "AmountForGroup": 0.0
   }
 },
@@ -923,9 +923,9 @@
   "model": "calcs.mealcomponent",
   "pk": 93,
   "fields": {
-    "AmountPerPerson": 0.1,
     "Meal": 12,
     "Ingredient": 17,
+    "AmountPerPerson": 0.1,
     "AmountForGroup": 0.0
   }
 },
@@ -933,9 +933,9 @@
   "model": "calcs.mealcomponent",
   "pk": 94,
   "fields": {
-    "AmountPerPerson": 3.0,
     "Meal": 12,
     "Ingredient": 136,
+    "AmountPerPerson": 3.0,
     "AmountForGroup": 0.0
   }
 },
@@ -943,9 +943,9 @@
   "model": "calcs.mealcomponent",
   "pk": 95,
   "fields": {
-    "AmountPerPerson": 1.0,
     "Meal": 12,
     "Ingredient": 9,
+    "AmountPerPerson": 1.0,
     "AmountForGroup": 0.0
   }
 },
@@ -953,9 +953,9 @@
   "model": "calcs.mealcomponent",
   "pk": 96,
   "fields": {
-    "AmountPerPerson": 1.0,
     "Meal": 12,
     "Ingredient": 22,
+    "AmountPerPerson": 1.0,
     "AmountForGroup": 0.0
   }
 },
@@ -963,9 +963,9 @@
   "model": "calcs.mealcomponent",
   "pk": 97,
   "fields": {
-    "AmountPerPerson": 0.2,
     "Meal": 12,
     "Ingredient": 79,
+    "AmountPerPerson": 0.2,
     "AmountForGroup": 0.0
   }
 },
@@ -973,9 +973,9 @@
   "model": "calcs.mealcomponent",
   "pk": 98,
   "fields": {
-    "AmountPerPerson": 0.2,
     "Meal": 12,
     "Ingredient": 98,
+    "AmountPerPerson": 0.2,
     "AmountForGroup": 0.0
   }
 },
@@ -983,9 +983,9 @@
   "model": "calcs.mealcomponent",
   "pk": 99,
   "fields": {
-    "AmountPerPerson": 3.0,
     "Meal": 12,
     "Ingredient": 125,
+    "AmountPerPerson": 3.0,
     "AmountForGroup": 0.0
   }
 },
@@ -993,9 +993,9 @@
   "model": "calcs.mealcomponent",
   "pk": 100,
   "fields": {
-    "AmountPerPerson": 0.5,
     "Meal": 12,
     "Ingredient": 81,
+    "AmountPerPerson": 0.5,
     "AmountForGroup": 0.0
   }
 },
@@ -1003,9 +1003,9 @@
   "model": "calcs.mealcomponent",
   "pk": 101,
   "fields": {
-    "AmountPerPerson": 0.2,
     "Meal": 12,
     "Ingredient": 45,
+    "AmountPerPerson": 0.2,
     "AmountForGroup": 0.0
   }
 },
@@ -1013,9 +1013,9 @@
   "model": "calcs.mealcomponent",
   "pk": 102,
   "fields": {
-    "AmountPerPerson": 0.5,
     "Meal": 12,
     "Ingredient": 122,
+    "AmountPerPerson": 0.5,
     "AmountForGroup": 0.0
   }
 },
@@ -1023,9 +1023,9 @@
   "model": "calcs.mealcomponent",
   "pk": 103,
   "fields": {
-    "AmountPerPerson": 2.0,
     "Meal": 12,
     "Ingredient": 68,
+    "AmountPerPerson": 2.0,
     "AmountForGroup": 0.0
   }
 },
@@ -1033,9 +1033,9 @@
   "model": "calcs.mealcomponent",
   "pk": 104,
   "fields": {
-    "AmountPerPerson": 0.2,
     "Meal": 12,
     "Ingredient": 101,
+    "AmountPerPerson": 0.2,
     "AmountForGroup": 0.0
   }
 },
@@ -1043,9 +1043,9 @@
   "model": "calcs.mealcomponent",
   "pk": 105,
   "fields": {
-    "AmountPerPerson": 0.03,
     "Meal": 12,
     "Ingredient": 133,
+    "AmountPerPerson": 0.03,
     "AmountForGroup": 0.0
   }
 },
@@ -1053,9 +1053,9 @@
   "model": "calcs.mealcomponent",
   "pk": 106,
   "fields": {
-    "AmountPerPerson": 0.03,
     "Meal": 12,
     "Ingredient": 17,
+    "AmountPerPerson": 0.03,
     "AmountForGroup": 0.0
   }
 },
@@ -1063,9 +1063,9 @@
   "model": "calcs.mealcomponent",
   "pk": 107,
   "fields": {
-    "AmountPerPerson": 0.125,
     "Meal": 12,
     "Ingredient": 4,
+    "AmountPerPerson": 0.125,
     "AmountForGroup": 0.0
   }
 },
@@ -1073,9 +1073,9 @@
   "model": "calcs.mealcomponent",
   "pk": 108,
   "fields": {
-    "AmountPerPerson": 60.0,
     "Meal": 6,
     "Ingredient": 157,
+    "AmountPerPerson": 60.0,
     "AmountForGroup": 0.0
   }
 },
@@ -1083,9 +1083,9 @@
   "model": "calcs.mealcomponent",
   "pk": 109,
   "fields": {
-    "AmountPerPerson": 90.0,
     "Meal": 6,
     "Ingredient": 32,
+    "AmountPerPerson": 90.0,
     "AmountForGroup": 0.0
   }
 },
@@ -1093,9 +1093,9 @@
   "model": "calcs.mealcomponent",
   "pk": 110,
   "fields": {
-    "AmountPerPerson": 1.0,
     "Meal": 6,
     "Ingredient": 125,
+    "AmountPerPerson": 1.0,
     "AmountForGroup": 0.0
   }
 },
@@ -1103,9 +1103,9 @@
   "model": "calcs.mealcomponent",
   "pk": 111,
   "fields": {
-    "AmountPerPerson": 0.5,
     "Meal": 6,
     "Ingredient": 155,
+    "AmountPerPerson": 0.5,
     "AmountForGroup": 0.0
   }
 },
@@ -1113,9 +1113,9 @@
   "model": "calcs.mealcomponent",
   "pk": 112,
   "fields": {
-    "AmountPerPerson": 1.5,
     "Meal": 6,
     "Ingredient": 137,
+    "AmountPerPerson": 1.5,
     "AmountForGroup": 0.0
   }
 },
@@ -1123,9 +1123,9 @@
   "model": "calcs.mealcomponent",
   "pk": 113,
   "fields": {
-    "AmountPerPerson": 0.3,
     "Meal": 6,
     "Ingredient": 149,
+    "AmountPerPerson": 0.3,
     "AmountForGroup": 0.0
   }
 },
@@ -1133,9 +1133,9 @@
   "model": "calcs.mealcomponent",
   "pk": 114,
   "fields": {
-    "AmountPerPerson": 0.1,
     "Meal": 6,
     "Ingredient": 150,
+    "AmountPerPerson": 0.1,
     "AmountForGroup": 0.0
   }
 },
@@ -1143,9 +1143,9 @@
   "model": "calcs.mealcomponent",
   "pk": 115,
   "fields": {
-    "AmountPerPerson": 1.2,
     "Meal": 6,
     "Ingredient": 158,
+    "AmountPerPerson": 1.2,
     "AmountForGroup": 0.0
   }
 },
@@ -1153,9 +1153,9 @@
   "model": "calcs.mealcomponent",
   "pk": 116,
   "fields": {
-    "AmountPerPerson": 0.5,
     "Meal": 6,
     "Ingredient": 140,
+    "AmountPerPerson": 0.5,
     "AmountForGroup": 0.0
   }
 },
@@ -1163,9 +1163,9 @@
   "model": "calcs.mealcomponent",
   "pk": 117,
   "fields": {
-    "AmountPerPerson": 40.0,
     "Meal": 6,
     "Ingredient": 15,
+    "AmountPerPerson": 40.0,
     "AmountForGroup": 0.0
   }
 },
@@ -1173,9 +1173,9 @@
   "model": "calcs.mealcomponent",
   "pk": 118,
   "fields": {
-    "AmountPerPerson": 40.0,
     "Meal": 6,
     "Ingredient": 102,
+    "AmountPerPerson": 40.0,
     "AmountForGroup": 0.0
   }
 },
@@ -1183,9 +1183,9 @@
   "model": "calcs.mealcomponent",
   "pk": 119,
   "fields": {
-    "AmountPerPerson": 40.0,
     "Meal": 6,
     "Ingredient": 14,
+    "AmountPerPerson": 40.0,
     "AmountForGroup": 0.0
   }
 },
@@ -1193,9 +1193,9 @@
   "model": "calcs.mealcomponent",
   "pk": 120,
   "fields": {
-    "AmountPerPerson": 2.0,
     "Meal": 6,
     "Ingredient": 16,
+    "AmountPerPerson": 2.0,
     "AmountForGroup": 0.0
   }
 },
@@ -1203,9 +1203,9 @@
   "model": "calcs.mealcomponent",
   "pk": 121,
   "fields": {
-    "AmountPerPerson": 0.05,
     "Meal": 6,
     "Ingredient": 4,
+    "AmountPerPerson": 0.05,
     "AmountForGroup": 0.0
   }
 },
@@ -1213,9 +1213,9 @@
   "model": "calcs.mealcomponent",
   "pk": 122,
   "fields": {
-    "AmountPerPerson": 5.0,
     "Meal": 13,
     "Ingredient": 70,
+    "AmountPerPerson": 5.0,
     "AmountForGroup": 0.0
   }
 },
@@ -1223,9 +1223,9 @@
   "model": "calcs.mealcomponent",
   "pk": 123,
   "fields": {
-    "AmountPerPerson": 0.15,
     "Meal": 13,
     "Ingredient": 49,
+    "AmountPerPerson": 0.15,
     "AmountForGroup": 0.0
   }
 },
@@ -1233,9 +1233,9 @@
   "model": "calcs.mealcomponent",
   "pk": 124,
   "fields": {
-    "AmountPerPerson": 0.5,
     "Meal": 13,
     "Ingredient": 69,
+    "AmountPerPerson": 0.5,
     "AmountForGroup": 0.0
   }
 },
@@ -1243,9 +1243,9 @@
   "model": "calcs.mealcomponent",
   "pk": 125,
   "fields": {
-    "AmountPerPerson": 1.5,
     "Meal": 13,
     "Ingredient": 85,
+    "AmountPerPerson": 1.5,
     "AmountForGroup": 0.0
   }
 },
@@ -1253,9 +1253,9 @@
   "model": "calcs.mealcomponent",
   "pk": 126,
   "fields": {
-    "AmountPerPerson": 0.2,
     "Meal": 13,
     "Ingredient": 167,
+    "AmountPerPerson": 0.2,
     "AmountForGroup": 0.0
   }
 },
@@ -1263,9 +1263,9 @@
   "model": "calcs.mealcomponent",
   "pk": 127,
   "fields": {
-    "AmountPerPerson": 0.2,
     "Meal": 13,
     "Ingredient": 63,
+    "AmountPerPerson": 0.2,
     "AmountForGroup": 0.0
   }
 },
@@ -1273,9 +1273,9 @@
   "model": "calcs.mealcomponent",
   "pk": 128,
   "fields": {
-    "AmountPerPerson": 0.2,
     "Meal": 13,
     "Ingredient": 103,
+    "AmountPerPerson": 0.2,
     "AmountForGroup": 0.0
   }
 },
@@ -1283,9 +1283,9 @@
   "model": "calcs.mealcomponent",
   "pk": 129,
   "fields": {
-    "AmountPerPerson": 3.0,
     "Meal": 13,
     "Ingredient": 23,
+    "AmountPerPerson": 3.0,
     "AmountForGroup": 0.0
   }
 },
@@ -1293,9 +1293,9 @@
   "model": "calcs.mealcomponent",
   "pk": 130,
   "fields": {
-    "AmountPerPerson": 1.0,
     "Meal": 13,
     "Ingredient": 107,
+    "AmountPerPerson": 1.0,
     "AmountForGroup": 0.0
   }
 },
@@ -1303,9 +1303,9 @@
   "model": "calcs.mealcomponent",
   "pk": 131,
   "fields": {
-    "AmountPerPerson": 0.2,
     "Meal": 13,
     "Ingredient": 89,
+    "AmountPerPerson": 0.2,
     "AmountForGroup": 0.0
   }
 },
@@ -1313,9 +1313,9 @@
   "model": "calcs.mealcomponent",
   "pk": 132,
   "fields": {
-    "AmountPerPerson": 0.1,
     "Meal": 13,
     "Ingredient": 96,
+    "AmountPerPerson": 0.1,
     "AmountForGroup": 0.0
   }
 },
@@ -1323,9 +1323,9 @@
   "model": "calcs.mealcomponent",
   "pk": 133,
   "fields": {
-    "AmountPerPerson": 150.0,
     "Meal": 13,
     "Ingredient": 117,
+    "AmountPerPerson": 150.0,
     "AmountForGroup": 0.0
   }
 },
@@ -1333,9 +1333,9 @@
   "model": "calcs.mealcomponent",
   "pk": 134,
   "fields": {
-    "AmountPerPerson": 1.5,
     "Meal": 13,
     "Ingredient": 140,
+    "AmountPerPerson": 1.5,
     "AmountForGroup": 0.0
   }
 },
@@ -1343,9 +1343,9 @@
   "model": "calcs.mealcomponent",
   "pk": 135,
   "fields": {
-    "AmountPerPerson": 1.5,
     "Meal": 13,
     "Ingredient": 136,
+    "AmountPerPerson": 1.5,
     "AmountForGroup": 0.0
   }
 },
@@ -1353,9 +1353,9 @@
   "model": "calcs.mealcomponent",
   "pk": 136,
   "fields": {
-    "AmountPerPerson": 0.5,
     "Meal": 13,
     "Ingredient": 25,
+    "AmountPerPerson": 0.5,
     "AmountForGroup": 0.0
   }
 },
@@ -1363,9 +1363,9 @@
   "model": "calcs.mealcomponent",
   "pk": 137,
   "fields": {
-    "AmountPerPerson": 0.05,
     "Meal": 13,
     "Ingredient": 128,
+    "AmountPerPerson": 0.05,
     "AmountForGroup": 0.0
   }
 },
@@ -1373,9 +1373,9 @@
   "model": "calcs.mealcomponent",
   "pk": 138,
   "fields": {
-    "AmountPerPerson": 0.05,
     "Meal": 13,
     "Ingredient": 17,
+    "AmountPerPerson": 0.05,
     "AmountForGroup": 0.0
   }
 },
@@ -1383,9 +1383,9 @@
   "model": "calcs.mealcomponent",
   "pk": 139,
   "fields": {
-    "AmountPerPerson": 0.1,
     "Meal": 13,
     "Ingredient": 37,
+    "AmountPerPerson": 0.1,
     "AmountForGroup": 0.0
   }
 },
@@ -1393,9 +1393,9 @@
   "model": "calcs.mealcomponent",
   "pk": 140,
   "fields": {
-    "AmountPerPerson": 1.0,
     "Meal": 14,
     "Ingredient": 77,
+    "AmountPerPerson": 1.0,
     "AmountForGroup": 0.0
   }
 },
@@ -1403,9 +1403,9 @@
   "model": "calcs.mealcomponent",
   "pk": 141,
   "fields": {
-    "AmountPerPerson": 1.0,
     "Meal": 14,
     "Ingredient": 76,
+    "AmountPerPerson": 1.0,
     "AmountForGroup": 0.0
   }
 },
@@ -1413,9 +1413,9 @@
   "model": "calcs.mealcomponent",
   "pk": 142,
   "fields": {
-    "AmountPerPerson": 0.5,
     "Meal": 14,
     "Ingredient": 98,
+    "AmountPerPerson": 0.5,
     "AmountForGroup": 0.0
   }
 },
@@ -1423,9 +1423,9 @@
   "model": "calcs.mealcomponent",
   "pk": 143,
   "fields": {
-    "AmountPerPerson": 0.5,
     "Meal": 14,
     "Ingredient": 85,
+    "AmountPerPerson": 0.5,
     "AmountForGroup": 0.0
   }
 },
@@ -1433,9 +1433,9 @@
   "model": "calcs.mealcomponent",
   "pk": 144,
   "fields": {
-    "AmountPerPerson": 1.0,
     "Meal": 15,
     "Ingredient": 65,
+    "AmountPerPerson": 1.0,
     "AmountForGroup": 0.0
   }
 },
@@ -1443,9 +1443,9 @@
   "model": "calcs.mealcomponent",
   "pk": 145,
   "fields": {
-    "AmountPerPerson": 0.5,
     "Meal": 15,
     "Ingredient": 38,
+    "AmountPerPerson": 0.5,
     "AmountForGroup": 0.0
   }
 },
@@ -1453,9 +1453,9 @@
   "model": "calcs.mealcomponent",
   "pk": 146,
   "fields": {
-    "AmountPerPerson": 1.0,
     "Meal": 15,
     "Ingredient": 92,
+    "AmountPerPerson": 1.0,
     "AmountForGroup": 0.0
   }
 },
@@ -1463,9 +1463,9 @@
   "model": "calcs.mealcomponent",
   "pk": 147,
   "fields": {
-    "AmountPerPerson": 3.0,
     "Meal": 16,
     "Ingredient": 142,
+    "AmountPerPerson": 3.0,
     "AmountForGroup": 0.0
   }
 },
@@ -1473,9 +1473,9 @@
   "model": "calcs.mealcomponent",
   "pk": 148,
   "fields": {
-    "AmountPerPerson": 0.5,
     "Meal": 16,
     "Ingredient": 107,
+    "AmountPerPerson": 0.5,
     "AmountForGroup": 0.0
   }
 },
@@ -1483,9 +1483,9 @@
   "model": "calcs.mealcomponent",
   "pk": 149,
   "fields": {
-    "AmountPerPerson": 6.0,
     "Meal": 16,
     "Ingredient": 156,
+    "AmountPerPerson": 6.0,
     "AmountForGroup": 0.0
   }
 },
@@ -1493,9 +1493,9 @@
   "model": "calcs.mealcomponent",
   "pk": 150,
   "fields": {
-    "AmountPerPerson": 0.75,
     "Meal": 16,
     "Ingredient": 82,
+    "AmountPerPerson": 0.75,
     "AmountForGroup": 0.0
   }
 },
@@ -1503,9 +1503,9 @@
   "model": "calcs.mealcomponent",
   "pk": 151,
   "fields": {
-    "AmountPerPerson": 0.3,
     "Meal": 5,
     "Ingredient": 172,
+    "AmountPerPerson": 0.3,
     "AmountForGroup": 0.0
   }
 },
@@ -1513,9 +1513,9 @@
   "model": "calcs.mealcomponent",
   "pk": 152,
   "fields": {
-    "AmountPerPerson": 30.0,
     "Meal": 6,
     "Ingredient": 173,
+    "AmountPerPerson": 30.0,
     "AmountForGroup": 0.0
   }
 },
@@ -1523,9 +1523,9 @@
   "model": "calcs.mealcomponent",
   "pk": 153,
   "fields": {
-    "AmountPerPerson": 0.75,
     "Meal": 6,
     "Ingredient": 174,
+    "AmountPerPerson": 0.75,
     "AmountForGroup": 0.0
   }
 },
@@ -1533,9 +1533,9 @@
   "model": "calcs.mealcomponent",
   "pk": 154,
   "fields": {
-    "AmountPerPerson": 0.0,
     "Meal": 2,
     "Ingredient": 120,
+    "AmountPerPerson": 0.0,
     "AmountForGroup": 2.0
   }
 },
@@ -1543,9 +1543,9 @@
   "model": "calcs.mealcomponent",
   "pk": 155,
   "fields": {
-    "AmountPerPerson": 50.0,
     "Meal": 6,
     "Ingredient": 154,
+    "AmountPerPerson": 50.0,
     "AmountForGroup": 0.0
   }
 },
@@ -1553,9 +1553,9 @@
   "model": "calcs.mealcomponent",
   "pk": 156,
   "fields": {
-    "AmountPerPerson": 135.0,
     "Meal": 7,
     "Ingredient": 34,
+    "AmountPerPerson": 135.0,
     "AmountForGroup": 0.0
   }
 },
@@ -1563,9 +1563,9 @@
   "model": "calcs.mealcomponent",
   "pk": 157,
   "fields": {
-    "AmountPerPerson": 46.0,
     "Meal": 7,
     "Ingredient": 15,
+    "AmountPerPerson": 46.0,
     "AmountForGroup": 0.0
   }
 },
@@ -1573,9 +1573,9 @@
   "model": "calcs.mealcomponent",
   "pk": 158,
   "fields": {
-    "AmountPerPerson": 9.0,
     "Meal": 7,
     "Ingredient": 193,
+    "AmountPerPerson": 9.0,
     "AmountForGroup": 0.0
   }
 },
@@ -1583,9 +1583,9 @@
   "model": "calcs.mealcomponent",
   "pk": 159,
   "fields": {
-    "AmountPerPerson": 28.0,
     "Meal": 7,
     "Ingredient": 192,
+    "AmountPerPerson": 28.0,
     "AmountForGroup": 0.0
   }
 },
@@ -1593,9 +1593,9 @@
   "model": "calcs.mealcomponent",
   "pk": 160,
   "fields": {
-    "AmountPerPerson": 1.75,
     "Meal": 7,
     "Ingredient": 176,
+    "AmountPerPerson": 1.75,
     "AmountForGroup": 0.0
   }
 },
@@ -1603,9 +1603,9 @@
   "model": "calcs.mealcomponent",
   "pk": 161,
   "fields": {
-    "AmountPerPerson": 2.5,
     "Meal": 7,
     "Ingredient": 64,
+    "AmountPerPerson": 2.5,
     "AmountForGroup": 0.0
   }
 },
@@ -1613,9 +1613,9 @@
   "model": "calcs.mealcomponent",
   "pk": 162,
   "fields": {
-    "AmountPerPerson": 8.0,
     "Meal": 7,
     "Ingredient": 194,
+    "AmountPerPerson": 8.0,
     "AmountForGroup": 0.0
   }
 },
@@ -1623,9 +1623,9 @@
   "model": "calcs.mealcomponent",
   "pk": 163,
   "fields": {
-    "AmountPerPerson": 5.4,
     "Meal": 7,
     "Ingredient": 195,
+    "AmountPerPerson": 5.4,
     "AmountForGroup": 0.0
   }
 },
@@ -1633,9 +1633,9 @@
   "model": "calcs.mealcomponent",
   "pk": 164,
   "fields": {
-    "AmountPerPerson": 5.4,
     "Meal": 8,
     "Ingredient": 195,
+    "AmountPerPerson": 5.4,
     "AmountForGroup": 0.0
   }
 },
@@ -1643,9 +1643,9 @@
   "model": "calcs.mealcomponent",
   "pk": 165,
   "fields": {
-    "AmountPerPerson": 25.3,
     "Meal": 24,
     "Ingredient": 141,
+    "AmountPerPerson": 25.3,
     "AmountForGroup": 0.0
   }
 },
@@ -1653,9 +1653,9 @@
   "model": "calcs.mealcomponent",
   "pk": 166,
   "fields": {
-    "AmountPerPerson": 21.7,
     "Meal": 24,
     "Ingredient": 197,
+    "AmountPerPerson": 21.7,
     "AmountForGroup": 0.0
   }
 },
@@ -1663,9 +1663,9 @@
   "model": "calcs.mealcomponent",
   "pk": 167,
   "fields": {
-    "AmountPerPerson": 7.3,
     "Meal": 24,
     "Ingredient": 198,
+    "AmountPerPerson": 7.3,
     "AmountForGroup": 0.0
   }
 },
@@ -1673,9 +1673,9 @@
   "model": "calcs.mealcomponent",
   "pk": 168,
   "fields": {
-    "AmountPerPerson": 76.0,
     "Meal": 25,
     "Ingredient": 141,
+    "AmountPerPerson": 76.0,
     "AmountForGroup": 0.0
   }
 },
@@ -1683,9 +1683,9 @@
   "model": "calcs.mealcomponent",
   "pk": 169,
   "fields": {
-    "AmountPerPerson": 65.0,
     "Meal": 25,
     "Ingredient": 197,
+    "AmountPerPerson": 65.0,
     "AmountForGroup": 0.0
   }
 },
@@ -1693,9 +1693,9 @@
   "model": "calcs.mealcomponent",
   "pk": 170,
   "fields": {
-    "AmountPerPerson": 22.0,
     "Meal": 25,
     "Ingredient": 198,
+    "AmountPerPerson": 22.0,
     "AmountForGroup": 0.0
   }
 },
@@ -1703,9 +1703,9 @@
   "model": "calcs.mealcomponent",
   "pk": 171,
   "fields": {
-    "AmountPerPerson": 49.0,
     "Meal": 25,
     "Ingredient": 199,
+    "AmountPerPerson": 49.0,
     "AmountForGroup": 0.0
   }
 },
@@ -1713,9 +1713,9 @@
   "model": "calcs.mealcomponent",
   "pk": 172,
   "fields": {
-    "AmountPerPerson": 0.2,
     "Meal": 25,
     "Ingredient": 200,
+    "AmountPerPerson": 0.2,
     "AmountForGroup": 0.0
   }
 },
@@ -1723,9 +1723,9 @@
   "model": "calcs.mealcomponent",
   "pk": 173,
   "fields": {
-    "AmountPerPerson": 68.0,
     "Meal": 25,
     "Ingredient": 201,
+    "AmountPerPerson": 68.0,
     "AmountForGroup": 0.0
   }
 },
@@ -1733,9 +1733,9 @@
   "model": "calcs.mealcomponent",
   "pk": 174,
   "fields": {
-    "AmountPerPerson": 30.0,
     "Meal": 25,
     "Ingredient": 148,
+    "AmountPerPerson": 30.0,
     "AmountForGroup": 0.0
   }
 },
@@ -1743,9 +1743,9 @@
   "model": "calcs.mealcomponent",
   "pk": 175,
   "fields": {
-    "AmountPerPerson": 31.0,
     "Meal": 7,
     "Ingredient": 196,
+    "AmountPerPerson": 31.0,
     "AmountForGroup": 0.0
   }
 },
@@ -1753,9 +1753,9 @@
   "model": "calcs.mealcomponent",
   "pk": 176,
   "fields": {
-    "AmountPerPerson": 31.0,
     "Meal": 8,
     "Ingredient": 196,
+    "AmountPerPerson": 31.0,
     "AmountForGroup": 0.0
   }
 },
@@ -1763,9 +1763,9 @@
   "model": "calcs.mealcomponent",
   "pk": 177,
   "fields": {
-    "AmountPerPerson": 46.0,
     "Meal": 8,
     "Ingredient": 15,
+    "AmountPerPerson": 46.0,
     "AmountForGroup": 0.0
   }
 },
@@ -1773,9 +1773,9 @@
   "model": "calcs.mealcomponent",
   "pk": 178,
   "fields": {
-    "AmountPerPerson": 9.0,
     "Meal": 8,
     "Ingredient": 193,
+    "AmountPerPerson": 9.0,
     "AmountForGroup": 0.0
   }
 },
@@ -1783,9 +1783,9 @@
   "model": "calcs.mealcomponent",
   "pk": 179,
   "fields": {
-    "AmountPerPerson": 28.0,
     "Meal": 8,
     "Ingredient": 192,
+    "AmountPerPerson": 28.0,
     "AmountForGroup": 0.0
   }
 },
@@ -1793,9 +1793,9 @@
   "model": "calcs.mealcomponent",
   "pk": 180,
   "fields": {
-    "AmountPerPerson": 1.8,
     "Meal": 8,
     "Ingredient": 176,
+    "AmountPerPerson": 1.8,
     "AmountForGroup": 0.0
   }
 },
@@ -1803,9 +1803,9 @@
   "model": "calcs.mealcomponent",
   "pk": 181,
   "fields": {
-    "AmountPerPerson": 2.5,
     "Meal": 8,
     "Ingredient": 64,
+    "AmountPerPerson": 2.5,
     "AmountForGroup": 0.0
   }
 },
@@ -1813,9 +1813,9 @@
   "model": "calcs.mealcomponent",
   "pk": 182,
   "fields": {
-    "AmountPerPerson": 8.0,
     "Meal": 8,
     "Ingredient": 194,
+    "AmountPerPerson": 8.0,
     "AmountForGroup": 0.0
   }
 },
@@ -1823,9 +1823,9 @@
   "model": "calcs.mealcomponent",
   "pk": 183,
   "fields": {
-    "AmountPerPerson": 108.0,
     "Meal": 8,
     "Ingredient": 154,
+    "AmountPerPerson": 108.0,
     "AmountForGroup": 0.0
   }
 },
@@ -1833,9 +1833,9 @@
   "model": "calcs.mealcomponent",
   "pk": 184,
   "fields": {
-    "AmountPerPerson": 59.0,
     "Meal": 8,
     "Ingredient": 170,
+    "AmountPerPerson": 59.0,
     "AmountForGroup": 0.0
   }
 },
@@ -1843,9 +1843,9 @@
   "model": "calcs.mealcomponent",
   "pk": 185,
   "fields": {
-    "AmountPerPerson": 0.3,
     "Meal": 7,
     "Ingredient": 202,
+    "AmountPerPerson": 0.3,
     "AmountForGroup": 0.0
   }
 },
@@ -1853,9 +1853,559 @@
   "model": "calcs.mealcomponent",
   "pk": 186,
   "fields": {
-    "AmountPerPerson": 0.3,
     "Meal": 8,
     "Ingredient": 202,
+    "AmountPerPerson": 0.3,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 187,
+  "fields": {
+    "Meal": 26,
+    "Ingredient": 203,
+    "AmountPerPerson": 27.0,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 188,
+  "fields": {
+    "Meal": 26,
+    "Ingredient": 89,
+    "AmountPerPerson": 0.057,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 189,
+  "fields": {
+    "Meal": 26,
+    "Ingredient": 204,
+    "AmountPerPerson": 1.5,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 190,
+  "fields": {
+    "Meal": 26,
+    "Ingredient": 40,
+    "AmountPerPerson": 0.013,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 191,
+  "fields": {
+    "Meal": 26,
+    "Ingredient": 205,
+    "AmountPerPerson": 0.45,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 192,
+  "fields": {
+    "Meal": 26,
+    "Ingredient": 17,
+    "AmountPerPerson": 0.013,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 193,
+  "fields": {
+    "Meal": 26,
+    "Ingredient": 206,
+    "AmountPerPerson": 2.5,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 194,
+  "fields": {
+    "Meal": 26,
+    "Ingredient": 128,
+    "AmountPerPerson": 0.079,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 195,
+  "fields": {
+    "Meal": 26,
+    "Ingredient": 32,
+    "AmountPerPerson": 81.25,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 196,
+  "fields": {
+    "Meal": 26,
+    "Ingredient": 207,
+    "AmountPerPerson": 1.7,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 197,
+  "fields": {
+    "Meal": 26,
+    "Ingredient": 83,
+    "AmountPerPerson": 0.14,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 198,
+  "fields": {
+    "Meal": 26,
+    "Ingredient": 208,
+    "AmountPerPerson": 0.84,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 199,
+  "fields": {
+    "Meal": 26,
+    "Ingredient": 209,
+    "AmountPerPerson": 45.0,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 200,
+  "fields": {
+    "Meal": 26,
+    "Ingredient": 210,
+    "AmountPerPerson": 14.3,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 201,
+  "fields": {
+    "Meal": 26,
+    "Ingredient": 25,
+    "AmountPerPerson": 0.75,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 202,
+  "fields": {
+    "Meal": 27,
+    "Ingredient": 102,
+    "AmountPerPerson": 78.0,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 203,
+  "fields": {
+    "Meal": 27,
+    "Ingredient": 207,
+    "AmountPerPerson": 3.0,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 204,
+  "fields": {
+    "Meal": 27,
+    "Ingredient": 206,
+    "AmountPerPerson": 2.6,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 205,
+  "fields": {
+    "Meal": 27,
+    "Ingredient": 83,
+    "AmountPerPerson": 0.13,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 206,
+  "fields": {
+    "Meal": 27,
+    "Ingredient": 211,
+    "AmountPerPerson": 1.56,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 207,
+  "fields": {
+    "Meal": 27,
+    "Ingredient": 204,
+    "AmountPerPerson": 1.0,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 208,
+  "fields": {
+    "Meal": 27,
+    "Ingredient": 205,
+    "AmountPerPerson": 0.09,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 209,
+  "fields": {
+    "Meal": 27,
+    "Ingredient": 212,
+    "AmountPerPerson": 0.34,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 210,
+  "fields": {
+    "Meal": 27,
+    "Ingredient": 213,
+    "AmountPerPerson": 1.6,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 211,
+  "fields": {
+    "Meal": 27,
+    "Ingredient": 208,
+    "AmountPerPerson": 0.54,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 212,
+  "fields": {
+    "Meal": 27,
+    "Ingredient": 214,
+    "AmountPerPerson": 0.46,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 213,
+  "fields": {
+    "Meal": 27,
+    "Ingredient": 215,
+    "AmountPerPerson": 3.0,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 214,
+  "fields": {
+    "Meal": 27,
+    "Ingredient": 216,
+    "AmountPerPerson": 6.2,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 215,
+  "fields": {
+    "Meal": 27,
+    "Ingredient": 128,
+    "AmountPerPerson": 0.05,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 216,
+  "fields": {
+    "Meal": 27,
+    "Ingredient": 89,
+    "AmountPerPerson": 0.35,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 217,
+  "fields": {
+    "Meal": 27,
+    "Ingredient": 217,
+    "AmountPerPerson": 31.6,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 218,
+  "fields": {
+    "Meal": 28,
+    "Ingredient": 102,
+    "AmountPerPerson": 185.0,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 219,
+  "fields": {
+    "Meal": 28,
+    "Ingredient": 207,
+    "AmountPerPerson": 8.0,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 220,
+  "fields": {
+    "Meal": 28,
+    "Ingredient": 83,
+    "AmountPerPerson": 0.28,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 221,
+  "fields": {
+    "Meal": 28,
+    "Ingredient": 213,
+    "AmountPerPerson": 1.7,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 222,
+  "fields": {
+    "Meal": 28,
+    "Ingredient": 206,
+    "AmountPerPerson": 8.0,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 223,
+  "fields": {
+    "Meal": 28,
+    "Ingredient": 214,
+    "AmountPerPerson": 2.2,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 224,
+  "fields": {
+    "Meal": 28,
+    "Ingredient": 128,
+    "AmountPerPerson": 0.15,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 225,
+  "fields": {
+    "Meal": 28,
+    "Ingredient": 17,
+    "AmountPerPerson": 0.01,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 226,
+  "fields": {
+    "Meal": 28,
+    "Ingredient": 148,
+    "AmountPerPerson": 3.1,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 227,
+  "fields": {
+    "Meal": 28,
+    "Ingredient": 218,
+    "AmountPerPerson": 0.2,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 228,
+  "fields": {
+    "Meal": 28,
+    "Ingredient": 215,
+    "AmountPerPerson": 37.0,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 229,
+  "fields": {
+    "Meal": 28,
+    "Ingredient": 219,
+    "AmountPerPerson": 1.9,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 230,
+  "fields": {
+    "Meal": 28,
+    "Ingredient": 220,
+    "AmountPerPerson": 378.0,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 231,
+  "fields": {
+    "Meal": 28,
+    "Ingredient": 221,
+    "AmountPerPerson": 81.0,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 232,
+  "fields": {
+    "Meal": 29,
+    "Ingredient": 17,
+    "AmountPerPerson": 0.004,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 233,
+  "fields": {
+    "Meal": 29,
+    "Ingredient": 222,
+    "AmountPerPerson": 0.055,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 234,
+  "fields": {
+    "Meal": 29,
+    "Ingredient": 223,
+    "AmountPerPerson": 0.115,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 235,
+  "fields": {
+    "Meal": 29,
+    "Ingredient": 213,
+    "AmountPerPerson": 0.313,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 236,
+  "fields": {
+    "Meal": 29,
+    "Ingredient": 224,
+    "AmountPerPerson": 0.233,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 237,
+  "fields": {
+    "Meal": 29,
+    "Ingredient": 225,
+    "AmountPerPerson": 0.159,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 238,
+  "fields": {
+    "Meal": 29,
+    "Ingredient": 226,
+    "AmountPerPerson": 0.0,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 239,
+  "fields": {
+    "Meal": 29,
+    "Ingredient": 99,
+    "AmountPerPerson": 0.001,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 240,
+  "fields": {
+    "Meal": 30,
+    "Ingredient": 14,
+    "AmountPerPerson": 50.0,
+    "AmountForGroup": 0.0
+  }
+},
+{
+  "model": "calcs.mealcomponent",
+  "pk": 241,
+  "fields": {
+    "Meal": 30,
+    "Ingredient": 227,
+    "AmountPerPerson": 0.75,
     "AmountForGroup": 0.0
   }
 }
