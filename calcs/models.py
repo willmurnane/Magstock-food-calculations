@@ -4,7 +4,24 @@ import datetime
 class Unit(models.Model):
 	Name = models.CharField(max_length=10)
 	def __str__(self):
+                return self.Name
+
+class Meal(models.Model):
+	Name = models.CharField(max_length=100)
+	UsedInEvent = models.ManyToManyField('Event', through='MealsInEvent')
+	UsesIngredient = models.ManyToManyField('PurchaseableItem', through='MealComponent')
+	def __str__(self):
 		return self.Name
+	class Meta:
+		ordering = ('Name',)
+
+class Event(models.Model):
+	Name = models.CharField(max_length=100)
+	Meals = models.ManyToManyField(Meal, through='MealsInEvent')
+	def __str__(self):
+		return self.Name
+	class Meta:
+		ordering = ('Name',)
 
 class PurchaseableItem(models.Model):
 	ItemName = models.CharField(max_length=200)
@@ -14,14 +31,12 @@ class PurchaseableItem(models.Model):
 	PurchaseLink = models.CharField(max_length=1024, blank=True, null=True)
 	AlreadyHave = models.IntegerField(default=0, blank=True)
 	PriceUpdatedDate = models.DateField(default=datetime.date.today)
+	UsedIn = models.ManyToManyField(Meal, through='MealComponent')
 	def __str__(self):
 		return "%s, %s" % (self.ItemName, self.QuantityUnits.Name)
-
-class Meal(models.Model):
-	Name = models.CharField(max_length=100)
-	def __str__(self):
-		return self.Name
-
+	class Meta:
+		ordering = ('ItemName',)
+        
 class MealComponent(models.Model):
 	Meal = models.ForeignKey(Meal)
 	Ingredient = models.ForeignKey(PurchaseableItem)
@@ -37,11 +52,6 @@ class MealComponent(models.Model):
 			(self.Meal, self.Ingredient.ItemName, self.AmountPerPerson, self.Units,
 			"" if self.AmountForGroup == 0 else ", %s%s for group" % (self.AmountForGroup, self.Units))
 
-class Event(models.Model):
-	Name = models.CharField(max_length=100)
-	Meals = models.ManyToManyField(Meal, through='MealsInEvent')
-	def __str__(self):
-		return self.Name
 
 class MealsInEvent(models.Model):
 	FkEvent = models.ForeignKey(Event)

@@ -22,5 +22,6 @@ urlpatterns = [
     url(r'^events/([0-9]+)$', views.event, name='show-event'),
     url(r'^events/create$', views.create_event, name='create-event'),
     url(r'^mealcost/([0-9]+)$', views.mealcost, name='cost-breakdown'),
+	url(r'^ingredients/([0-9]+)/inevent/([0-9]+)$', views.ingredient, name='ingredient'),
     url(r'', views.show_events),
 ]

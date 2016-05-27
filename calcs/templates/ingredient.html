@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block title %}{{ingredient.ItemName}} quantities used{% endblock %}
+{% block content %}
+<p>{{ingredient.ItemName}} is used in {{in_meals.count}} meals in {{ event.Name }}.</p>
+<table>
+<thead><tr>
+  <td>Meal</td>
+  <td>Per person</td>
+  <td>For group</td>
+  <td>Total required</td>
+  <td>Purchaseable quantity</td>
+  <td>Number to purchase <strong>for this meal</strong></td>
+  <td>Cost</td>
+</tr></thead>
+{% for comp in in_meals %}
+<tr>
+  <td>{{ comp.Meal.Name }}</td>
+  <td>{{ comp.AmountPerPerson }} {{ ingredient.QuantityUnits.Name }}</td>
+  <td>{% if comp.AmountForGroup != 0 %}{{ comp.AmountForGroup }} {{ comp.Units }} {%endif%}</td>
+  <td>{{ event.totalRequired }}</td>
+</tr>
+{% endfor %}
+</table>
+<p>Total cost: <strong>${{ TotalCost }}</strong>, if only ingredients for this meal are purchased.</p>
+{% endblock %}

@@ -17,8 +17,8 @@
 </tr></thead>
 {% for ic in ingredient_costs %}
 <tr>
-  <td>{{ ic.ItemName }}</td>
-  <td>{{ ic.quantity_needed|floatformat:-2 }} {{ ic.QuantityUnits__Name }}</td>
+  <td><a href="{% url 'ingredient' ic.id event.id %}">{{ ic.ItemName }}</a></td>
+  <td>{{ ic.quantity_needed|floatformat:-3 }} {{ ic.QuantityUnits__Name }}</td>
   <td>{% if ic.AlreadyHave != 0 %}{{ ic.AlreadyHave }}ea @ {{ ic.QuantityProvided}} {{ ic.QuantityUnits__Name }}{% endif %}</td>
   <td>{{ ic.num_packages|floatformat:"0" }} {{ ic.QuantityProvided}} {{ ic.QuantityUnits__Name }} package{{ ic.num_packages|pluralize }}</td>
   <td>${{ ic.total_cost|floatformat:2 }}</td>
